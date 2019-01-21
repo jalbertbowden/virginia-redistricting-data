@@ -33,3 +33,5 @@ Virginia Redistricting GeoJSON data for reuse from [VPAP's 2018 Redistricting Da
 *   [Special Master Hampton Roads A GeoJSON](https://s3.amazonaws.com/vpap-production/static/maps_statewide/plan-2018-court-hampton-roads-a.json)
 *   [Special Master Hampton Roads B GeoJSON](https://s3.amazonaws.com/vpap-production/static/maps_statewide/plan-2018-court-hampton-roads-b.json)
 *   [Special Master Hampton Roads C GeoJSON](https://s3.amazonaws.com/vpap-production/static/maps_statewide/plan-2018-court-hampton-roads-c.json)
+
+## [Other Virginia Redistricting Datasets](https://github.com/jalbertbowden/virginia-redistricting-data-2018/blob/master/more-redistricting-data.md)  

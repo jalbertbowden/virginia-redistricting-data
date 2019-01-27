@@ -1,9 +1,11 @@
 # Virginia Redistricting Data
 
-Virginia Redistricting GeoJSON data for reuse from [VPAP's 2018 Redistricting Data](https://www.vpap.org/general-assembly/redistricting-2018/).  
+Virginia Redistricting GeoJSON data for reuse from VPAP.  
+
+[VPAP's 2018 Redistricting Data](https://www.vpap.org/general-assembly/redistricting-2018/)  
+[VPAP's 2019 Federal List](https://www.vpap.org/general-assembly/redistricting-2018/plan-2019-court-plan/)  
 
 ## References:  
-
 *   [2018 Chris Jones Plan](https://www.vpap.org/general-assembly/redistricting-2018/plan-2018-house-cjones/)
 *   [2018 House Republican Plan](https://www.vpap.org/general-assembly/redistricting-2018/plan-2018-house-republican-v2/)
 *   [2018 House Democratic Plan](https://www.vpap.org/general-assembly/redistricting-2018/plan-2018-house-democratic/)

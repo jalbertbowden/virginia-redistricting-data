@@ -1,0 +1,1239 @@
+﻿Division of Legislative Services        Crittenden-Maxwell Congressional Plan 366        Ideal District Population
+        Patrons Crittenden and Maxwell
+        July 3, 2001   3:34PM        643,501
+
+
+        District        1        Population Deviation:         83
+        Percent Deviation:        0.0
+        Counties and Cities        316,751
+        001        Accomack        38,305
+        057        Essex        9,989
+        073        Gloucester        34,780
+        099        King George        16,803
+        103        Lancaster        11,567
+        115        Mathews        9,207
+        119        Middlesex        9,932
+        131        Northampton        13,093
+        133        Northumberland        12,259
+        159        Richmond        8,809
+        179        Stafford        92,446
+        193        Westmoreland        16,718
+        630        Fredericksburg city        19,279
+        735        Poquoson city        11,566
+        830        Williamsburg city        11,998
+        Caroline (Part)        18,019
+        033        101        Bowling Green*        4,270
+        033        201        Madison*        6,000
+        033        301        Port Royal*        1,411
+        033        303        Woodford*        2,514
+        033        501        Mattaponi        3,824
+        Hampton city (Part)        45,747
+        650        113        Syms*        2,230
+        650        201        Booker*        5,038
+        650        202        Buckroe*        6,878
+        650        203        Burbank*        13,153
+        650        205        Fox Hill*        5,782
+        650        209        Langley*        4,736
+        650        213        Phillips*        6,024
+        650        215        Tyler*        1,906
+        James City (Part)        21,229
+        095        101        Berkeley A        5,040
+        095        203        Jamestown C*        828
+        095        302        Powhatan B*        4,442
+        095        401        Stonehouse A*        4,866
+        095        402        Stonehouse B*        3,696
+        095        5011        Roberts A Part 1*        2,357
+        King and Queen (Part)        2,751
+        097        101        Owenton*        1,360
+        097        201        Clark's*        1,391
+        King William (Part)        7,477
+        101        202        Second-B        1,249
+        101        401        Fourth        3,440
+        101        501        Fifth        2,788
+        Newport News city (Part)        40,677
+        700        105        Oyster Point        1,281
+        700        107        Richneck*        4,921
+        700        109        Windsor*        4,399
+        700        201        Bland*        1,509
+        700        202        Boulevard        4,642
+        700        206        Watkins        10,223
+        700        211        Palmer*        3,456
+        700        218        Kiln Creek*        6,627
+        700        301        Beaconsdale        707
+        700        315        Sedgefield*        2,912
+        Norfolk city (Part)        19,551
+        710        501        Bayview School*        5,523
+        710        503        East Ocean View*        6,052
+        710        505        Little Creek        3,707
+        710        5061        Ocean View Center Part 1        4,269
+        Spotsylvania (Part)        83,203
+        177        101        Partlow*        3,036
+        177        102        Blaydes Corner*        3,486
+        177        103        Travelers Rest*        3,803
+        177        201        Grange Hall*        3,750
+        177        202        Maury*        14,048
+        177        301        Plank Road*        10,910
+        177        401        Summit*        13,524
+        177        402        Frazers Gate*        5,303
+        177        504        Holbert        3,337
+        177        601        Salem*        11,642
+        177        701        Battlefield*        2,875
+        177        702        Brent's Mill*        7,489
+        Virginia Beach city (Part)        26,734
+        810        017        Ocean Park*        5,493
+        810        018        Thoroughgood        4,615
+        810        019        Lake Smith*        4,212
+        810        037        Chesapeake Beach*        8,742
+        810        038        Witchduck        3,672
+        York (Part)        52,253
+        199        101        Queens Lake*        4,290
+        199        102        Yorktown*        2,061
+        199        103        Waller Mill*        3,187
+        199        203        Coventry*        10,593
+        199        301        Seaford*        3,441
+        199        302        Harris Grove*        4,865
+        199        303        Edgehill        2,066
+        199        402        Dare*        5,340
+        199        401        Harwoods Mill*        4,256
+        199        501        Tabb*        3,247
+        199        502        Bethel*        8,907
+        Norfolk city - Ocean View Center Part 2 (5062) (Part)        829
+        Norfolk city - Ocean View School (507) (Part)        8,363
+        District number-        1        Total Population:        643,584
+        District        2        Population Deviation:         42
+        Percent Deviation:        0.0
+        Chesapeake city (Part)        128,296
+        550        002        Bethel*        3,796
+        550        004        Churchland*        3,428
+        550        006        Deep Creek*        5,057
+        550        007        Greenbrier*        7,560
+        550        009        Bells Mill*        4,619
+        550        011        Geneva Park        5,335
+        550        013        Gilmerton*        3,094
+        550        015        B. M. Williams School*        4,476
+        550        016        Hickory Grove*        4,511
+        550        017        Indian Creek*        3,668
+        550        019        Jolliff One*        2,061
+        550        020        E. W. Chittum School*        5,815
+        550        021        Fellowship Baptist Church        3,068
+        550        022        Norfolk Highlands*        2,784
+        550        023        Oak Grove*        7,349
+        550        025        St. Julians*        964
+        550        027        Silverwood*        4,573
+        550        028        Sunray I*        366
+        550        029        Tanglewood*        3,092
+        550        033        Westover*        2,276
+        550        034        Hickory Middle School*        8,923
+        550        037        Bridgetown*        6,025
+        550        038        Bailey Creek*        1,850
+        550        039        Lake Drummond*        1,525
+        550        040        River Birch*        5,244
+        550        041        John T. West*        6,739
+        550        042        Parkways*        6,495
+        550        043        Pleasant Crossing*        6,280
+        550        044        Nansemond        1,366
+        550        045        Sunray II*        1,746
+        550        047        Green Sea*        3,583
+        550        0141        Grassfield Part 1*        628
+        Isle of Wight (Part)        7,411
+        093        402        Windsor*        2,910
+        093        501        Walters*        1,424
+        093        503        Carrsville*        1,216
+        093        504        Zuni*        1,861
+        Norfolk city (Part)        101,599
+        710        101        Granby        6,528
+        710        103        Northside*        2,320
+        710        104        Titustown Center        21,159
+        710        105        Tucker House        1,330
+        710        106        Zion Grace        6,945
+        710        201        Canterbury*        3,289
+        710        202        Crossroads        4,941
+        710        203        Ghent Square*        1,823
+        710        205        Lafayette Library*        1,334
+        710        206        Lafayette Presbyterian*        428
+        710        208        Larchmont Library*        1,245
+        710        209        Larchmont Recreation Center*        4,161
+        710        210        Maury*        2,666
+        710        211        Ohef Sholom*        2,471
+        710        213        St. Andrew's*        4,226
+        710        215        Suburban Park*        3,339
+        710        216        Therapeutic Center*        3,681
+        710        218        Willard*        2,804
+        710        401        Azalea Gardens*        2,758
+        710        406        Barron Black*        2,899
+        710        408        Easton*        4,671
+        710        502        Bayview United*        3,345
+        710        504        Larrymore*        4,267
+        710        508        Oceanair*        2,949
+        710        509        Tarrallton        4,472
+        710        510        Third Presbyterian*        1,548
+        Southampton (Part)        2,652
+        175        101        Berlin*        1,099
+        175        501        Hunterdale*        1,553
+        Suffolk city (Part)        17,729
+        800        203        King's Fork        6,397
+        800        303        Cypress Chapel*        1,505
+        800        402        Whaleyville*        1,571
+        800        501        Kilby's Mill*        3,717
+        800        502        Holland*        2,067
+        800        503        Holy Neck*        1,681
+        800        704        Lake Meade*        791
+        Virginia Beach city (Part)        380,719
+        810        001        North Beach*        3,851
+        810        002        South Beach*        3,157
+        810        004        Linkhorn*        3,258
+        810        006        Alanton        4,406
+        810        007        Kingston*        3,871
+        810        008        London Bridge*        8,413
+        810        011        Cape Henry*        4,982
+        810        012        Plaza*        8,851
+        810        013        Mt. Trashmore        6,057
+        810        014        Malibu*        4,357
+        810        015        Old Donation*        5,967
+        810        016        Aragona*        7,162
+        810        020        Bayside*        4,805
+        810        021        Davis Corner        7,327
+        810        022        Point O' View*        3,456
+        810        023        Arrowhead*        4,860
+        810        024        Larkspur*        6,385
+        810        027        Providence*        4,192
+        810        028        Thalia*        8,306
+        810        029        Holland*        8,465
+        810        032        Creeds*        1,618
+        810        033        Capps Shop*        1,882
+        810        034        Blackwater*        1,024
+        810        035        Courthouse        8,825
+        810        036        Windsor Oaks*        6,950
+        810        039        Pembroke*        5,639
+        810        040        Bonney*        7,434
+        810        042        Brandon*        8,234
+        810        043        Bellamy*        9,548
+        810        044        Centerville*        5,257
+        810        045        Timberlake*        3,509
+        810        046        Green Run*        11,251
+        810        047        Kings Grant*        4,477
+        810        048        Wolfsnare*        5,357
+        810        049        Lynnhaven*        7,054
+        810        050        Oceana*        9,225
+        810        051        Stratford Chase        7,427
+        810        052        Homestead        5,607
+        810        053        Shannon        4,665
+        810        054        Salem        11,110
+        810        055        Magic Hollow*        9,567
+        810        056        Little Neck*        3,454
+        810        057        Sherry Park*        2,511
+        810        058        Glenwood*        5,188
+        810        059        Meadows*        1,050
+        810        060        Forest*        774
+        810        062        Landstown*        8,157
+        810        064        Rosemont Forest        5,834
+        810        065        Colonial*        5,944
+        810        066        Hunt*        5,319
+        810        067        Eastern Shore*        4,627
+        810        068        Hilltop        5,578
+        810        069        Shell*        4,486
+        810        070        Strawbridge        4,000
+        810        071        Round Hill        7,097
+        810        073        Dahlia*        9,174
+        810        096        Ocean Lakes (3)/Red Wing (30)/Sigma (31)/Culver (63)        32,777
+        810        097        Seatack (5)/Rudee (72)*        10,014
+        810        098        Trantwood (9)/Great Neck (10)*        8,778
+        810        099        Woodstock (25)/Fairfield (26)*        8,169
+        Chesapeake city - Great Bridge Middle School* (036) (Part)        5,137
+        Norfolk city - Ocean View Center Part 2 (5062) (Part)        0
+        Norfolk city - Ocean View School (507) (Part)        0
+        District number-        2        Total Population:        643,543
+        District        3        Population Deviation:         -71
+        Percent Deviation:        0.0
+        Counties and Cities        20,388
+        036        Charles City        6,926
+        127        New Kent        13,462
+        Chesterfield (Part)        48,323
+        041        105        Drewry's Bluff*        6,649
+        041        202        Beulah*        4,661
+        041        205        Falling Creek*        5,202
+        041        206        Belmont*        6,290
+        041        207        Chippenham*        6,143
+        041        208        Meadowbrook*        4,508
+        041        404        Providence        4,313
+        041        409        Manchester*        4,822
+        041        412        Davis        3,573
+        041        513        Beaufont*        2,162
+        Hampton city (Part)        100,690
+        650        101        Aberdeen*        3,670
+        650        102        Bassette*        4,264
+        650        103        City Hall*        4,796
+        650        104        Cooper*        6,827
+        650        105        East Hampton*        6,026
+        650        106        Lasalle*        4,317
+        650        107        Lee*        2,998
+        650        108        Pembroke*        6,341
+        650        109        Phenix*        5,182
+        650        110        Phoebus*        929
+        650        111        River*        1,384
+        650        112        Smith        7,562
+        650        114        Tarrant*        4,316
+        650        115        Wythe*        2,416
+        650        204        Forrest        3,282
+        650        206        Jones        1,786
+        650        207        Kecoughtan*        4,635
+        650        208        Kraft        7,336
+        650        210        Magruder*        6,745
+        650        211        Mallory*        973
+        650        212        Northampton*        8,504
+        650        214        Tucker Capps*        6,401
+        Henrico (Part)        116,835
+        087        101        Brookland*        1,037
+        087        102        Dumbarton*        6,776
+        087        104        Glenside*        3,091
+        087        106        Hermitage*        2,341
+        087        108        Hunton*        1,150
+        087        112        Maude Trevvett*        4,932
+        087        113        Moody*        2,819
+        087        115        Stratford Hall*        750
+        087        201        Adams*        4,172
+        087        202        Azalea*        5,781
+        087        203        Bloomingdale*        1,761
+        087        204        Brook Hill*        1,302
+        087        205        Canterbury*        565
+        087        206        Central Gardens*        2,938
+        087        207        Chamberlayne*        1,880
+        087        208        East Highland Park*        1,764
+        087        209        Fairfield*        3,602
+        087        210        Glen Lea*        1,646
+        087        211        Greenwood*        1,634
+        087        212        Highland Gardens*        3,800
+        087        213        Hungary*        1,971
+        087        214        Longdale*        2,062
+        087        215        Randolph*        397
+        087        216        Ratcliffe*        3,404
+        087        217        Upham*        135
+        087        218        Wilkinson*        556
+        087        219        Yellow Tavern*        2,924
+        087        220        Maplewood*        2,830
+        087        221        Chipplegate*        989
+        087        222        Landmark*        511
+        087        301        Cardinal*        605
+        087        501        Cedar Fork*        1,244
+        087        502        Chickahominy*        2,948
+        087        503        Donahoe*        3,203
+        087        504        Eanes*        3,304
+        087        505        Elko*        176
+        087        506        Fairmount*        200
+        087        507        Glen Echo*        866
+        087        508        Highland Springs*        1,627
+        087        509        Laburnum*        3,086
+        087        510        Masonic*        820
+        087        511        Town Hall*        1,075
+        087        512        Montrose*        3,810
+        087        513        Pleasants*        4,968
+        087        514        Sandston*        1,419
+        087        515        Seven Pines*        1,707
+        087        516        Sullivans*        6,160
+        087        517        Mehfoud*        1,597
+        087        518        Whitlocks*        357
+        087        519        Nine Mile*        2,146
+        087        520        Dorey*        3,810
+        087        521        Antioch*        2,187
+        James City (Part)        26,873
+        095        102        Berkeley B        6,420
+        095        201        Jamestown A        4,949
+        095        202        Jamestown B        3,661
+        095        301        Powhatan A*        6,234
+        095        502        Roberts B*        2,480
+        095        5012        Roberts A Part 2*        3,129
+        King and Queen (Part)        3,879
+        097        301        Shackleford's*        1,245
+        097        401        Courthouse*        1,320
+        097        501        Old Mill*        1,314
+        King William (Part)        5,669
+        101        101        First*        2,154
+        101        201        Second-A        1,230
+        101        301        Third        2,285
+        Newport News city (Part)        139,473
+        700        101        Denbigh*        9,979
+        700        102        Epes*        7,872
+        700        103        Jenkins*        3,397
+        700        104        Mcintosh*        11,315
+        700        106        Reservoir        8,086
+        700        108        Lee Hall        9,720
+        700        203        Charles*        5,571
+        700        204        Christopher Newport*        3,197
+        700        205        Deep Creek*        3,724
+        700        207        Grissom        532
+        700        208        Hidenwood        2,060
+        700        209        Hilton        3,283
+        700        210        Nelson        6,191
+        700        212        Riverside        1,894
+        700        213        Sanford        1,722
+        700        214        Saunders*        6,165
+        700        215        Warwick        2,925
+        700        216        Yates        2,390
+        700        217        Riverview        3,217
+        700        302        Briarfield        4,367
+        700        303        Carver*        3,251
+        700        304        Chestnut*        1,911
+        700        305        Downtown        1,976
+        700        306        Dunbar        3,059
+        700        307        Huntington*        1,982
+        700        308        Jefferson        2,272
+        700        309        Magruder*        1,782
+        700        310        Marshall        2,709
+        700        311        New Market        4,501
+        700        312        Newsome Park        1,484
+        700        313        Reed*        2,966
+        700        314        River        2,460
+        700        316        South Morrison*        8,275
+        700        317        Washington*        1,208
+        700        318        Wilson*        2,030
+        Richmond city (Part)        177,256
+        760        113        113*        2,501
+        760        114        114*        3,398
+        760        203        203*        2,153
+        760        204        204*        3,011
+        760        206        206*        2,178
+        760        207        207*        3,058
+        760        208        208*        3,403
+        760        211        211*        3,608
+        760        212        212*        2,517
+        760        213        213        2,107
+        760        301        301*        2,884
+        760        302        302*        2,292
+        760        303        303*        1,755
+        760        304        304*        3,519
+        760        305        305*        2,804
+        760        306        306*        1,815
+        760        307        307*        2,195
+        760        308        308*        2,328
+        760        309        309*        1,544
+        760        402        402*        2,328
+        760        403        403*        1,721
+        760        404        404*        3,204
+        760        410        410*        4,582
+        760        411        411*        997
+        760        412        412*        3,817
+        760        413        413*        2,249
+        760        501        501*        2,738
+        760        502        502*        1,107
+        760        503        503*        3,568
+        760        504        504*        3,490
+        760        505        505*        1,777
+        760        508        508*        1,578
+        760        509        509*        3,690
+        760        510        510*        4,011
+        760        602        602*        2,356
+        760        603        603*        3,415
+        760        604        604*        2,726
+        760        606        606*        3,503
+        760        607        607        1,013
+        760        608        608*        3,989
+        760        609        609        3,169
+        760        610        610*        1,545
+        760        701        701*        4,286
+        760        702        702*        1,878
+        760        703        703*        2,193
+        760        704        704*        1,725
+        760        705        705        2,249
+        760        706        706        4,639
+        760        707        707        4,256
+        760        802        802*        2,719
+        760        806        806        1,681
+        760        807        807*        1,844
+        760        810        810*        3,525
+        760        811        811*        2,856
+        760        812        812*        4,025
+        760        813        813        3,377
+        760        902        902*        3,585
+        760        903        903*        6,244
+        760        906        906*        2,858
+        760        908        908        2,735
+        760        909        909*        2,886
+        760        910        910*        3,914
+        760        911        911        2,138
+        York (Part)        4,044
+        199        201        Nelson        1,858
+        199        202        Magruder*        2,186
+        Richmond city - 106 (106) (Part)        0
+        District number-        3        Total Population:        643,430
+        District        4        Population Deviation:         -105
+        Percent Deviation:        0.0
+        Counties and Cities        272,018
+        025        Brunswick        18,419
+        037        Charlotte        12,472
+        081        Greensville        11,560
+        111        Lunenburg        13,146
+        135        Nottoway        15,725
+        149        Prince George        33,047
+        181        Surry        6,829
+        183        Sussex        12,504
+        595        Emporia city        5,665
+        620        Franklin city        8,346
+        730        Petersburg city        33,740
+        740        Portsmouth city        100,565
+        Chesapeake city (Part)        64,342
+        550        001        Great Bridge*        4,558
+        550        003        Camelot        6,566
+        550        005        Crestwood*        7,488
+        550        010        Oscar Smith School*        2,384
+        550        012        Georgetown*        5,149
+        550        018        Indian River*        3,935
+        550        024        Oaklette*        4,835
+        550        026        Johnson Park*        2,791
+        550        030        South Norfolk Fire Station*        2,021
+        550        031        Carver School*        5,207
+        550        032        Providence Church of Christ*        5,573
+        550        035        Taylor Road Fire Station*        6,485
+        550        046        Bells Mill II*        2,831
+        550        0142        Grassfield Part 2*        49
+        550        008        South Norfolk Recreation*        4,470
+        Chesterfield (Part)        10,914
+        041        301        Ettrick*        5,627
+        041        303        Matoaca        5,287
+        Dinwiddie (Part)        22,200
+        053        101        Darvills*        965
+        053        102        White Oak*        832
+        053        104        Five Forks*        939
+        053        201        Rohoic*        1,469
+        053        202        Chesdin*        3,682
+        053        301        Edgehill*        3,729
+        053        302        New Hope*        2,556
+        053        401        Dinwiddie*        3,055
+        053        402        Reams*        976
+        053        501        Cherry Hill*        962
+        053        502        Mckenney*        1,543
+        053        503        Rocky Run*        1,492
+        Halifax (Part)        20,848
+        083        101        Childrey*        1,272
+        083        102        Liberty*        1,675
+        083        103        Republican Grove*        1,851
+        083        201        Clays Mill        1,674
+        083        202        Crossroads        1,338
+        083        203        Clover*        1,931
+        083        302        Meadville        1,533
+        083        303        Union        1,734
+        083        304        Vernon Hill        1,551
+        083        499        Courthouse 401/Sinai 402*        4,371
+        083        802        South Boston West*        1,918
+        Hopewell city (Part)        9,259
+        670        201        Ward 2*        2,827
+        670        601        Ward 6        3,034
+        670        701        Ward 7        3,398
+        Isle of Wight (Part)        22,317
+        093        101        Smithfield        6,567
+        093        202        Carrollton        6,808
+        093        301        Rushmere        2,543
+        093        302        Pons        2,980
+        093        401        Courthouse*        1,639
+        093        403        Orbit*        989
+        093        502        Camps Mill*        791
+        Mecklenburg (Part)        26,535
+        117        101        Wright's Store*        879
+        117        201        Boydton        1,943
+        117        202        Bluestone Senior High School        724
+        117        203        Chase City Vfw Post        848
+        117        301        Bracey*        2,290
+        117        302        Lacrosse        2,147
+        117        401        American Legion Hall        3,053
+        117        402        Park View Middle School*        393
+        117        501        South Hill        3,566
+        117        601        Baskerville*        2,328
+        117        602        Union Level        1,090
+        117        603        Smith Crossroads*        433
+        117        701        Chase City*        2,568
+        117        702        Sunshine        573
+        117        801        Finchley        541
+        117        802        Bluestone        2,044
+        117        803        Chase City Elementary School*        1,115
+        Norfolk city (Part)        104,061
+        710        204        Immanuel*        2,389
+        710        207        Lambert's Point*        2,644
+        710        212        Park Place*        2,571
+        710        214        Stuart*        4,070
+        710        217        Wesley        3,318
+        710        301        Ballentine*        4,665
+        710        302        Tanner's Creek*        3,260
+        710        303        Bowling Park        5,582
+        710        304        Coleman Place School        2,697
+        710        305        Lafayette-Winona*        3,402
+        710        306        Lindenwood*        2,763
+        710        307        Monroe*        1,382
+        710        308        Norview Methodist*        3,274
+        710        309        Norview Recreation Center*        4,843
+        710        310        Rosemont*        6,779
+        710        312        Sherwood School        2,807
+        710        313        Union Chapel        3,152
+        710        402        Berkley*        3,097
+        710        403        Brambleton*        3,200
+        710        404        Campostella*        4,357
+        710        405        Chesterfield*        3,344
+        710        407        Coleman Place Presbyterian*        3,546
+        710        409        Fairlawn*        4,047
+        710        410        Houston*        980
+        710        411        Hunton Y*        2,946
+        710        412        Ingleside*        3,453
+        710        413        Poplar Halls*        5,128
+        710        414        Young Park*        5,350
+        710        3111        Sherwood Rec Center Part 1        74
+        710        3112        Sherwood Rec Center Part 2        4,941
+        Prince Edward (Part)        10,911
+        147        201        Lockett        2,187
+        147        301        Leigh*        2,637
+        147        401        Hampden*        2,174
+        147        501        Darlington Heights*        1,253
+        147        601        Prospect*        2,660
+        Southampton (Part)        14,830
+        175        102        Ivor*        1,474
+        175        201        Boykins*        1,601
+        175        202        Branchville*        528
+        175        301        Capron*        1,312
+        175        302        Sebrell*        778
+        175        401        Drewryville*        2,738
+        175        502        Forks-of-the-River*        617
+        175        601        Courtland*        2,360
+        175        602        Sedley*        756
+        175        701        Blackwater River*        1,240
+        175        702        Newsoms*        1,426
+        Suffolk city (Part)        45,948
+        800        101        Yeates        2,771
+        800        102        Driver*        4,291
+        800        103        Harbour View*        7,027
+        800        201        Ebenezer*        2,028
+        800        202        Chuckatuck        2,392
+        800        301        White Marsh        3,081
+        800        302        John F. Kennedy        3,124
+        800        401        Airport*        5,660
+        800        601        Lakeside*        4,643
+        800        602        Olde Towne*        2,784
+        800        701        Hollywood*        2,455
+        800        702        Elephant's Fork*        3,004
+        800        703        Nansemond River        2,688
+        Virginia Beach city (Part)        17,804
+        810        041        College Park*        7,564
+        810        061        Baker        10,240
+        Chesapeake city - Great Bridge Middle School* (036) (Part)        1,409
+        District number-        4        Total Population:        643,396
+        District        5        Population Deviation:         -75
+        Percent Deviation:        0.0
+        Counties and Cities        490,727
+        011        Appomattox        13,705
+        029        Buckingham        15,623
+        031        Campbell        51,078
+        049        Cumberland        9,017
+        065        Fluvanna        20,047
+        067        Franklin        47,286
+        089        Henry        57,930
+        125        Nelson        14,445
+        141        Patrick        19,407
+        143        Pittsylvania        61,745
+        515        Bedford city        6,299
+        540        Charlottesville city        45,049
+        590        Danville city        48,411
+        680        Lynchburg city        65,269
+        690        Martinsville city        15,416
+        Albemarle (Part)        44,668
+        003        202        University Hall*        2,626
+        003        301        Ivy*        4,626
+        003        304        East Ivy*        1,775
+        003        399        North Garden 302 / Batesville 303        4,848
+        003        401        Scottsville*        2,296
+        003        402        Monticello*        3,160
+        003        403        Porter's        2,133
+        003        404        Covesville        526
+        003        405        Cale*        6,111
+        003        501        Keswick*        3,888
+        003        504        Free Bridge*        5,246
+        003        601        Crozet*        7,433
+        Bedford (Part)        59,359
+        019        101        Stewartsville*        5,775
+        019        102        Hardy*        1,882
+        019        201        Chamblissburg*        1,494
+        019        202        Staunton River*        2,480
+        019        203        Moneta*        3,952
+        019        204        Mountain View*        682
+        019        301        New London*        2,854
+        019        302        Otter Hill*        2,151
+        019        303        Walton's Store*        1,199
+        019        304        White House*        2,015
+        019        305        Huddleston*        1,227
+        019        401        Forest*        3,995
+        019        402        Jefferson*        6,491
+        019        501        Cove*        373
+        019        503        Sedalia*        1,250
+        019        504        Kelso*        1,422
+        019        505        Boonsboro*        4,710
+        019        601        Montvale*        2,627
+        019        602        Shady Grove*        2,686
+        019        603        Thaxton*        2,117
+        019        701        Goode*        2,164
+        019        702        Liberty High School*        2,684
+        019        703        Sign Rock*        3,129
+        Goochland (Part)        10,614
+        075        101        Fife*        1,211
+        075        102        Hadensville*        2,118
+        075        201        Three Square*        759
+        075        202        Sandy Hook*        2,894
+        075        301        Goochland Court House*        3,632
+        Halifax (Part)        16,507
+        083        501        Center        1,687
+        083        502        Dan River        1,423
+        083        503        Scottsburg        1,836
+        083        601        Black Walnut        2,254
+        083        603        Mt. Carmel        2,093
+        083        701        Hyco        3,182
+        083        702        Midway        748
+        083        703        Virgilina        960
+        083        801        South Boston East*        2,324
+        Mecklenburg (Part)        5,845
+        117        102        Pearson's Store        315
+        117        103        South Clarksville        2,195
+        117        901        Averett*        807
+        117        902        Buffalo Springs        757
+        117        903        Clarksville        1,771
+        Powhatan (Part)        6,897
+        145        402        Ballsville*        2,084
+        145        501        Smith Cross Roads        1,525
+        145        502        Pineville        3,288
+        Prince Edward (Part)        8,809
+        147        101        Farmville        4,388
+        147        502        Buffalo Heights*        1,590
+        147        701        West End*        1,679
+        147        801        Center*        1,152
+        District number-        5        Total Population:        643,426
+        District        6        Population Deviation:         -69
+        Percent Deviation:        0.0
+        Counties and Cities        570,689
+        005        Alleghany        12,926
+        009        Amherst        31,894
+        015        Augusta        65,615
+        017        Bath        5,048
+        023        Botetourt        30,496
+        047        Culpeper        34,262
+        091        Highland        2,536
+        139        Page        23,177
+        157        Rappahannock        6,983
+        163        Rockbridge        20,808
+        165        Rockingham        67,725
+        171        Shenandoah        35,075
+        187        Warren        31,584
+        530        Buena Vista city        6,349
+        560        Clifton Forge city        4,289
+        580        Covington city        6,303
+        660        Harrisonburg city        40,468
+        678        Lexington city        6,867
+        770        Roanoke city        94,911
+        790        Staunton city        23,853
+        820        Waynesboro city        19,520
+        Bedford (Part)        1,012
+        019        502        Big Island*        1,012
+        Fauquier (Part)        35,215
+        061        101        Kettle Run*        1,599
+        061        201        Warrenton*        6,528
+        061        202        Baldwin Ridge*        4,915
+        061        401        Marshall*        3,678
+        061        402        Leeds*        2,039
+        061        403        Waterloo*        4,734
+        061        404        Upperville*        830
+        061        501        The Plains*        3,201
+        061        502        New Baltimore*        5,051
+        061        503        Broad Run*        2,640
+        Roanoke (Part)        36,516
+        161        201        Plantation*        3,678
+        161        202        Burlington*        2,624
+        161        203        Mountain View        3,423
+        161        205        Bonsack        3,779
+        161        403        North Vinton*        3,529
+        161        404        South Vinton*        4,253
+        161        405        Lindenwood*        4,367
+        161        406        Mount Pleasant*        3,782
+        161        501        Cotton Hill*        1,522
+        161        505        Clearbrook*        2,108
+        161        507        Hunting Hills*        3,451
+        District number-        6        Total Population:        643,432
+        District        7        Population Deviation:         72
+        Percent Deviation:        0.0
+        Counties and Cities        193,889
+        007        Amelia        11,400
+        079        Greene        15,244
+        085        Hanover        86,320
+        109        Louisa        25,627
+        113        Madison        12,520
+        137        Orange        25,881
+        570        Colonial Heights city        16,897
+        Albemarle (Part)        34,568
+        003        101        Woodbrook*        3,452
+        003        102        Commonwealth*        4,657
+        003        103        Branchlands*        1,716
+        003        104        Agnor-Hurt*        2,626
+        003        201        Jack Jouett*        6,355
+        003        502        Stony Point*        1,461
+        003        503        Hollymead*        8,309
+        003        602        Free Union*        1,813
+        003        603        Earlysville*        4,179
+        Caroline (Part)        4,102
+        033        401        Reedy Church        4,102
+        Chesterfield (Part)        200,666
+        041        101        Bellwood*        6,050
+        041        102        South Chester*        5,066
+        041        103        Enon*        3,489
+        041        104        North Chester*        5,190
+        041        106        Harrowgate*        4,191
+        041        107        Wells*        6,888
+        041        108        Ecoff*        4,578
+        041        109        Point Of Rocks        464
+        041        110        Dutch Gap        6,500
+        041        111        Iron Bridge*        2,878
+        041        201        Gates*        3,928
+        041        203        Bird*        4,184
+        041        204        Jacobs*        4,078
+        041        209        Salem Church*        5,957
+        041        210        Five Forks        2,939
+        041        302        Deer Run*        5,717
+        041        304        Winfrees Store        3,161
+        041        305        Beach*        4,314
+        041        306        Winterpock        3,617
+        041        309        Skinquarter*        2,180
+        041        310        Tomahawk        5,480
+        041        311        Walthall*        2,023
+        041        312        Evergreen*        4,635
+        041        313        Woolridge        3,929
+        041        314        Branches*        1,361
+        041        315        Bailey Bridge*        4,082
+        041        316        Spring Run*        4,561
+        041        399        Pocahontas 307/Crenshaw 308        9,601
+        041        402        Genito*        6,833
+        041        403        Brandermill*        3,816
+        041        405        Lyndale*        2,754
+        041        406        Smoketree        3,169
+        041        407        Monacan        1,922
+        041        408        Reams        5,878
+        041        410        Wagstaff*        2,385
+        041        499        Harbour Pointe 401/Swift Creek 411*        6,294
+        041        501        Huguenot*        3,484
+        041        502        Crestwood*        1,987
+        041        503        Midlothian*        4,701
+        041        504        Robious        3,642
+        041        505        Bon Air*        3,914
+        041        506        Greenfield        4,370
+        041        507        Salisbury        4,178
+        041        509        Cranbeck        2,458
+        041        510        Sycamore*        4,317
+        041        512        Shenandoah*        4,221
+        041        514        Watkins*        3,064
+        041        599        Belgrade 508/Black Heath 511*        6,238
+        Dinwiddie (Part)        2,333
+        053        103        Church Road*        2,333
+        Goochland (Part)        6,249
+        075        402        Centerville*        2,920
+        075        501        Manakin*        3,329
+        Henrico (Part)        145,465
+        087        103        Glen Allen*        4,402
+        087        105        Greendale*        2,750
+        087        107        Hilliard*        1,790
+        087        109        Johnson*        3,531
+        087        110        Lakeside*        4,239
+        087        111        Longan*        4,297
+        087        114        Staples Mill*        4,924
+        087        116        Summit Court*        1,892
+        087        302        Coalpit*        5,274
+        087        303        Crestview*        3,655
+        087        304        Freeman*        2,329
+        087        305        Innsbrook*        6,198
+        087        306        Jackson Davis*        2,667
+        087        307        Lauderdale*        3,560
+        087        308        Monument Hills*        1,200
+        087        309        Ridge*        2,238
+        087        310        Sadler*        8,140
+        087        311        Cedarfield        5,749
+        087        312        Skipwith*        4,095
+        087        313        Three Chopt*        3,075
+        087        314        Tucker*        6,593
+        087        315        Westwood*        2,544
+        087        316        Causeway*        6,276
+        087        317        Stoney Run        5,096
+        087        401        Byrd*        3,641
+        087        402        Lakewood*        3,074
+        087        403        Derbyshire*        2,137
+        087        404        Gayton*        3,973
+        087        405        G0dwin*        2,979
+        087        406        Maybeury*        5,581
+        087        407        Mooreland*        2,018
+        087        408        Pemberton*        4,201
+        087        409        Pinchbeck*        4,804
+        087        410        Ridgefield*        4,174
+        087        411        Rollingwood*        2,157
+        087        412        Spottswood*        1,357
+        087        413        Tuckahoe*        4,314
+        087        414        West End*        4,541
+        Hopewell city (Part)        13,095
+        670        301        Ward 3        3,249
+        670        401        Ward 4        3,333
+        670        501        Ward 5*        3,180
+        670        101        Ward 1*        3,333
+        Powhatan (Part)        15,480
+        145        101        Subletts*        3,170
+        145        102        Manakin*        1,160
+        145        201        Powhatan Station        2,703
+        145        202        Graceland        2,342
+        145        301        Bethesda        3,569
+        145        401        Powhatan Courthouse*        2,536
+        Richmond city (Part)        18,535
+        760        101        101        4,625
+        760        102        102        1,349
+        760        103        103*        2,072
+        760        104        104*        1,279
+        760        105        105*        2,135
+        760        111        111*        1,911
+        760        112        112*        1,668
+        760        409        409*        3,496
+        Spotsylvania (Part)        7,192
+        177        501        Belmont*        2,211
+        177        502        Brokenburg*        3,730
+        177        503        Todd's Tavern        1,251
+        Richmond city - 106 (106) (Part)        1,999
+        District number-        7        Total Population:        643,573
+        District        8        Population Deviation:         -45
+        Percent Deviation:        0.0
+        Counties and Cities        328,113
+        013        Arlington        189,453
+        510        Alexandria city        128,283
+        610        Falls Church city        10,377
+        Fairfax (Part)        315,343
+        059        110        North Springfield # 1*        2,063
+        059        111        North Springfield # 2*        3,316
+        059        112        North Springfield # 3*        2,801
+        059        115        Ravensworth*        2,354
+        059        301        Chain Bridge*        4,537
+        059        302        Chesterbrook*        3,187
+        059        303        Churchill*        2,131
+        059        305        El Nido*        2,891
+        059        307        Haycock*        2,946
+        059        310        Kirby        2,790
+        059        311        Langley*        2,847
+        059        312        Longfellow*        3,159
+        059        314        Mclean        3,011
+        059        315        Pimmit*        5,357
+        059        316        Salona*        3,491
+        059        317        Westhampton*        2,926
+        059        318        Westmoreland*        1,826
+        059        401        Bush Hill*        4,066
+        059        402        Cameron        4,798
+        059        404        Franconia*        4,758
+        059        405        Groveton        10,760
+        059        408        Mount Eagle*        7,382
+        059        409        Pioneer*        7,256
+        059        410        Rose Hill        6,194
+        059        411        Virginia Hills        4,458
+        059        415        Crestwood*        4,501
+        059        417        Garfield*        8,239
+        059        418        Lynbrook*        4,392
+        059        419        Beulah*        8,510
+        059        420        Villages*        4,934
+        059        421        Kingstowne*        5,002
+        059        422        Van Dorn*        4,676
+        059        499        Hayfield 406/Woodlawn 412/Fairfield 413        22,588
+        059        501        Baileys        6,178
+        059        505        Glen Forest*        7,280
+        059        506        Holmes*        9,156
+        059        517        Willston*        5,967
+        059        520        Skyline        6,319
+        059        526        Bren Mar*        4,247
+        059        601        Belle Haven*        3,237
+        059        602        Belleview        2,588
+        059        604        Bucknell        7,140
+        059        605        Fort Hunt*        2,626
+        059        606        Hollin Hall        2,217
+        059        607        Huntington*        5,812
+        059        608        Kirkside        2,672
+        059        609        Marlan        3,089
+        059        610        Sherwood*        4,412
+        059        611        Stratford*        4,252
+        059        612        Waynewood*        1,841
+        059        613        Westgate*        3,857
+        059        614        Whitman*        2,687
+        059        615        Woodley*        4,031
+        059        616        Gunston*        6,939
+        059        619        Belvoir*        6,287
+        059        621        Grosvenor*        2,513
+        059        622        Pohick Run        6,179
+        059        703        Fort Buffalo*        3,279
+        059        808        Keene Mill*        2,390
+        059        811        Pohick        5,967
+        059        812        Valley*        4,315
+        059        824        Orange*        5,868
+        059        827        Irving*        3,355
+        059        829        Saratoga*        5,345
+        059        836        Hunt*        5,358
+        059        840        West Springfield*        3,793
+        District number-        8        Total Population:        643,456
+        District        9        Population Deviation:         63
+        Percent Deviation:        0.0
+        Counties and Cities        594,302
+        021        Bland        6,871
+        027        Buchanan        26,978
+        035        Carroll        29,245
+        045        Craig        5,091
+        051        Dickenson        16,395
+        063        Floyd        13,874
+        071        Giles        16,657
+        077        Grayson        17,917
+        105        Lee        23,589
+        121        Montgomery        83,627
+        121        Montgomery - A        2
+        155        Pulaski        35,127
+        167        Russell        30,308
+        169        Scott        23,403
+        173        Smyth        33,081
+        185        Tazewell        44,598
+        195        Wise        40,123
+        197        Wythe        27,599
+        520        Bristol city        17,367
+        640        Galax city        6,837
+        720        Norton city        3,904
+        750        Radford city        15,859
+        775        Salem city        24,747
+        191        Washington        51,103
+        Roanoke (Part)        49,262
+        161        101        Catawba        1,000
+        161        102        Mason Valley        1,034
+        161        103        Glenvar        3,977
+        161        104        Northside*        1,504
+        161        105        Peters Creek        3,598
+        161        106        Green Hill        3,909
+        161        107        Bennett Springs        1,424
+        161        204        Botetourt Springs        1,782
+        161        206        Hollins*        2,202
+        161        207        Woodlands        1,253
+        161        301        Bent Mountain        897
+        161        302        Poages Mill        3,559
+        161        303        Windsor Hills*        2,339
+        161        306        Garst Mill*        2,633
+        161        399        Oak Grove 304/Castle Rock 305        7,932
+        161        502        Penn Forest*        2,348
+        161        503        Cave Spring*        2,413
+        161        504        Ogden*        3,305
+        161        506        Mount Vernon*        2,153
+        District number-        9        Total Population:        643,564
+        District        10        Population Deviation:         84
+        Percent Deviation:        0.0
+        Counties and Cities        310,470
+        043        Clarke        12,652
+        069        Frederick        59,209
+        107        Loudoun        169,599
+        840        Winchester city        23,585
+        683        Manassas city        35,135
+        685        Manassas Park city        10,290
+        Fairfax (Part)        176,414
+        059        229        Fox Mill*        6,149
+        059        299        Floris 203/Frying Pan 235        14,652
+        059        322        Forestville        3,765
+        059        325        Hutchison*        3,952
+        059        328        Hickory*        3,933
+        059        329        Seneca        4,326
+        059        730        Penderbrook*        4,139
+        059        803        Clifton*        5,241
+        059        901        Centre Ridge*        10,769
+        059        902        Chantilly*        8,555
+        059        904        Dulles*        2,971
+        059        905        Franklin        4,672
+        059        906        Greenbriar East*        10,143
+        059        907        Greenbriar West*        8,175
+        059        908        Kinross        6,797
+        059        910        London Towne*        8,036
+        059        911        Navy*        6,810
+        059        912        Newgate*        6,867
+        059        913        Rocky Run*        5,450
+        059        915        Virginia Run*        6,395
+        059        916        Waples Mill*        5,177
+        059        918        Centreville*        10,230
+        059        919        Green Trails*        7,766
+        059        920        Lees Corner        4,584
+        059        921        Deer Park*        5,042
+        059        999        Cub Run 903/Stone 917        11,818
+        Fauquier (Part)        19,924
+        061        102        Catlett*        3,935
+        061        103        Casanova*        1,734
+        061        104        Lois*        2,232
+        061        301        Morrisville*        3,644
+        061        302        Remington*        6,406
+        061        303        Opal*        1,973
+        Prince William (Part)        136,777
+        153        101        Brentsville        2,096
+        153        102        Armory*        5,982
+        153        103        Buckhall*        5,905
+        153        104        Nokesville        1,746
+        153        105        Parkside        7,219
+        153        106        Jackson*        2,362
+        153        107        Linton Hall        9,542
+        153        108        Woodbine        5,861
+        153        109        Park        2,880
+        153        201        Saunders*        6,337
+        153        203        Coles*        3,958
+        153        204        Mccoart*        6,588
+        153        206        King*        5,579
+        153        301        Dumfries*        4,931
+        153        303        Graham Park        5,371
+        153        304        Quantico        7,321
+        153        305        Pattie*        3,185
+        153        306        Washington-Reid*        6,136
+        153        401        Evergreen*        4,617
+        153        402        Haymarket*        6,664
+        153        403        Loch Lomond*        2,496
+        153        404        Sinclair        5,693
+        153        405        Stonewall        2,066
+        153        406        Sudley        2,402
+        153        407        Westgate*        4,749
+        153        408        Catharpin*        2,302
+        153        409        Bull Run*        4,356
+        153        410        Plantation*        1,939
+        153        411        Mullen*        6,494
+        District number-        10        Total Population:        643,585
+        District        11        Population Deviation:         25
+        Percent Deviation:        0.0
+        Counties and Cities        22,573
+        600        Fairfax city        21,498
+        059        Fairfax - A        1,075
+        Fairfax (Part)        476,917
+        059        102        Bristow*        4,931
+        059        104        Chapel*        3,096
+        059        105        Fairview*        6,872
+        059        106        Heritage*        8,727
+        059        108        Kings Park*        4,391
+        059        109        Olde Creek*        3,173
+        059        113        Oak Hill*        2,968
+        059        116        Wakefield*        2,927
+        059        118        Lake Braddock*        6,995
+        059        119        Laurel*        5,780
+        059        120        Sideburn*        4,166
+        059        121        Villa*        2,777
+        059        122        Long Branch*        2,184
+        059        123        Robinson*        6,285
+        059        124        Olley*        2,454
+        059        125        Signal Hill*        4,207
+        059        126        Bonnie Brae*        3,377
+        059        201        Colvin*        3,149
+        059        202        Flint Hill        5,728
+        059        208        Reston #1*        6,302
+        059        209        Reston #2*        4,726
+        059        213        Vienna #1        5,229
+        059        214        Vienna #2        3,941
+        059        216        Vienna #4        2,366
+        059        218        Vienna #6*        2,917
+        059        219        Westbriar        4,610
+        059        220        Dogwood*        7,716
+        059        221        Hunters Woods*        3,157
+        059        222        Reston #3*        3,225
+        059        223        Glade*        5,144
+        059        224        South Lakes        5,315
+        059        225        Terraset*        7,022
+        059        226        Wolftrap        4,431
+        059        227        Sunrise Valley        2,373
+        059        233        North Point*        5,601
+        059        234        Aldrin*        7,069
+        059        304        Cooper*        5,268
+        059        306        Great Falls*        2,442
+        059        309        Kenmore*        4,579
+        059        319        Herndon #1*        4,102
+        059        320        Herndon #2*        10,508
+        059        321        Clearview*        6,148
+        059        323        Shouse*        2,633
+        059        324        Herndon #3*        7,052
+        059        326        Stuart*        1,865
+        059        327        Sugarland*        4,483
+        059        502        Barcroft*        3,838
+        059        503        Belvedere*        2,141
+        059        507        Lincolnia*        6,144
+        059        508        Masonville*        2,962
+        059        510        Parklawn*        3,216
+        059        511        Ravenwood*        2,101
+        059        512        Sleepy Hollow*        1,849
+        059        513        Saint Albans*        3,711
+        059        515        Westlawn*        2,856
+        059        516        Weyanoke*        6,428
+        059        518        Columbia*        6,235
+        059        519        Hummer*        2,736
+        059        521        Brook Hill        3,541
+        059        522        Camelot*        1,825
+        059        523        Poe        3,668
+        059        524        Whittier*        3,825
+        059        525        Walnut Hill # 1*        1,367
+        059        527        Edsall*        2,603
+        059        528        Ridgelea*        1,647
+        059        617        Lorton        9,051
+        059        618        Newington*        7,703
+        059        620        Delong*        2,372
+        059        701        Blake*        6,250
+        059        704        Freedom Hill        7,953
+        059        705        Graham*        3,622
+        059        706        Greenway*        3,021
+        059        707        Mantua        3,191
+        059        708        Marshall*        8,134
+        059        709        Mosby*        8,224
+        059        710        Pine Spring*        4,247
+        059        711        Price        3,545
+        059        712        Shreve        1,654
+        059        713        Timber Lane        5,845
+        059        714        Walker*        4,787
+        059        717        Woodburn*        3,644
+        059        718        Pine Ridge*        3,914
+        059        719        Stenwood*        2,214
+        059        720        Thoreau        2,159
+        059        721        Merrifield*        4,303
+        059        726        Magarity*        5,680
+        059        727        Oakton*        3,225
+        059        728        Walnut Hill # 2*        1,149
+        059        729        Nottoway        5,934
+        059        731        Tysons*        4,403
+        059        732        Oak Marr*        3,389
+        059        801        Burke        7,122
+        059        802        Cardinal*        3,462
+        059        805        Fairfax Station        4,321
+        059        815        Woodyard        4,779
+        059        825        Cherry Run*        4,073
+        059        832        Terra Centre*        3,434
+        059        833        White Oaks        4,834
+        059        837        Burke Centre        7,061
+        059        838        Sangster*        5,213
+        059        839        Silverbrook        8,002
+        059        841        Popes Head*        4,037
+        059        842        Parkway        3,062
+        059        909        Leehigh*        7,105
+        059        914        Vale*        3,640
+        059        922        Willow Springs*        5,194
+        059        1171        Woodson Part 1        3,852
+        059        1172        Woodson Part 2        1,009
+        Prince William (Part)        144,036
+        153        202        Enterprise*        5,969
+        153        205        Springwoods*        5,818
+        153        207        Lodge*        5,299
+        153        208        Westridge*        2,991
+        153        302        Potomac*        4,890
+        153        307        Henderson*        6,151
+        153        308        Montclair*        4,192
+        153        501        Lake Ridge*        5,895
+        153        502        Occoquan*        6,824
+        153        503        Old Bridge*        4,376
+        153        504        Rockledge*        4,802
+        153        505        Mohican*        4,367
+        153        506        Bethel*        5,886
+        153        507        Chinn*        3,617
+        153        601        Dale        3,097
+        153        602        Neabsco*        4,759
+        153        603        Godwin*        8,328
+        153        604        Civic Center        4,249
+        153        605        Minnieville*        4,944
+        153        606        Bel Air        4,645
+        153        607        Kerrydale*        3,815
+        153        701        Belmont*        4,331
+        153        702        Library        5,075
+        153        703        Lynn        5,897
+        153        704        Featherstone        5,907
+        153        705        Potomac View*        4,010
+        153        706        Rippon        9,616
+        153        707        Kilby*        4,286
+        District number-        11        Total Population:        643,526
+
+
+        Grand Total:         7,078,515
+
+
+        Page  of 17

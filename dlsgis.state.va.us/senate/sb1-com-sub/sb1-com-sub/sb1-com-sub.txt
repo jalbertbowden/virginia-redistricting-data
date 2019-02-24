@@ -1,0 +1,1577 @@
+﻿	District	1	Population Deviation: 	-2,674	Percent Deviation:	-1.51	%
+
+	Counties and Cities	11,566
+	735	Poquoson city	11,566
+	York (Part)	22,747
+	199	203	Coventry*	10,593
+	199	501	Tabb*	3,247
+	199	502	Bethel*	8,907
+	Hampton city (Part)	39,105
+	650	113	Syms*	2,230
+	650	201	Booker*	5,038
+	650	202	Buckroe*	6,878
+	650	203	Burbank*	13,153
+	650	205	Fox Hill*	5,782
+	650	213	Phillips*	6,024
+	Newport News city (Part)	98,605
+	700	101	Denbigh*	9,979
+	700	102	Epes*	7,872
+	700	103	Jenkins*	3,397
+	700	105	Oyster Point	1,281
+	700	107	Richneck*	4,921
+	700	109	Windsor*	4,399
+	700	201	Bland*	1,509
+	700	202	Boulevard	4,642
+	700	203	Charles*	5,571
+	700	204	Christopher Newport*	3,197
+	700	205	Deep Creek*	3,724
+	700	206	Watkins	10,223
+	700	207	Grissom	532
+	700	208	Hidenwood	2,060
+	700	209	Hilton	3,283
+	700	211	Palmer*	3,456
+	700	212	Riverside	1,894
+	700	213	Sanford	1,722
+	700	214	Saunders*	6,165
+	700	215	Warwick	2,925
+	700	216	Yates	2,390
+	700	217	Riverview	3,217
+	700	218	Kiln Creek*	6,627
+	700	301	Beaconsdale	707
+	700	315	Sedgefield*	2,912
+	Hampton city - Langley* (209)  (Part)	2,266
+	District number-	1	Total Population:	174,289
+	District	2	Population Deviation: 	-2,729	Percent Deviation:	-1.54	%
+
+	Hampton city (Part)	102,596
+	650	101	Aberdeen*	3,670
+	650	102	Bassette*	4,264
+	650	103	City Hall*	4,796
+	650	104	Cooper*	6,827
+	650	105	East Hampton*	6,026
+	650	106	Lasalle*	4,317
+	650	107	Lee*	2,998
+	650	108	Pembroke*	6,341
+	650	109	Phenix*	5,182
+	650	110	Phoebus*	929
+	650	111	River*	1,384
+	650	112	Smith	7,562
+	650	114	Tarrant*	4,316
+	650	115	Wythe*	2,416
+	650	204	Forrest	3,282
+	650	206	Jones	1,786
+	650	207	Kecoughtan*	4,635
+	650	208	Kraft	7,336
+	650	210	Magruder*	6,745
+	650	211	Mallory*	973
+	650	212	Northampton*	8,504
+	650	214	Tucker Capps*	6,401
+	650	215	Tyler*	1,906
+	Newport News city (Part)	46,233
+	700	302	Briarfield	4,367
+	700	303	Carver*	3,251
+	700	304	Chestnut*	1,911
+	700	305	Downtown	1,976
+	700	306	Dunbar	3,059
+	700	307	Huntington*	1,982
+	700	308	Jefferson	2,272
+	700	309	Magruder*	1,782
+	700	310	Marshall	2,709
+	700	311	New Market	4,501
+	700	312	Newsome Park	1,484
+	700	313	Reed*	2,966
+	700	314	River	2,460
+	700	316	South Morrison*	8,275
+	700	317	Washington*	1,208
+	700	318	Wilson*	2,030
+	Portsmouth city (Part)	15,908
+	740	099	Thirty-Seven/Thirty-Eight	15,908
+	Suffolk city (Part)	7,027
+	800	103	Harbour View*	7,027
+	Hampton city - Langley* (209)  (Part)	2,470
+	District number-	2	Total Population:	174,234
+	District	3	Population Deviation: 	241	Percent Deviation:	0.14	%
+
+	Counties and Cities	108,342
+	073	Gloucester	34,780
+	095	James City	48,102
+	127	New Kent	13,462
+	830	Williamsburg city	11,998
+	York (Part)	33,550
+	199	101	Queens Lake*	4,290
+	199	102	Yorktown*	2,061
+	199	103	Waller Mill*	3,187
+	199	201	Nelson	1,858
+	199	202	Magruder*	2,186
+	199	301	Seaford*	3,441
+	199	302	Harris Grove*	4,865
+	199	303	Edgehill	2,066
+	199	402	Dare*	5,340
+	199	401	Harwoods Mill*	4,256
+	Newport News city (Part)	35,312
+	700	104	Mcintosh*	11,315
+	700	106	Reservoir	8,086
+	700	108	Lee Hall	9,720
+	700	210	Nelson	6,191
+	District number-	3	Total Population:	177,204
+	District	4	Population Deviation: 	-2,101	Percent Deviation:	-1.19	%
+
+	Counties and Cities	148,138
+	033	Caroline	22,121
+	057	Essex	9,989
+	085	Hanover	86,320
+	097	King and Queen	6,630
+	101	King William	13,146
+	119	Middlesex	9,932
+	Spotsylvania (Part)	26,724
+	177	101	Partlow*	3,036
+	177	102	Blaydes Corner*	3,486
+	177	103	Travelers Rest*	3,803
+	177	401	Summit*	13,524
+	177	701	Battlefield*	2,875
+	District number-	4	Total Population:	174,862
+	District	5	Population Deviation: 	-3,428	Percent Deviation:	-1.94	%
+
+	Chesapeake city (Part)	30,273
+	550	005	Crestwood*	7,488
+	550	012	Georgetown*	5,149
+	550	024	Oaklette*	4,835
+	550	030	South Norfolk Fire Station*	2,021
+	550	031	Carver School*	5,207
+	550	032	Providence Church of Christ*	5,573
+	Norfolk city (Part)	133,022
+	710	106	Zion Grace	6,945
+	710	201	Canterbury*	3,289
+	710	203	Ghent Square*	1,823
+	710	204	Immanuel*	2,389
+	710	205	Lafayette Library*	1,334
+	710	206	Lafayette Presbyterian*	428
+	710	207	Lambert's Point*	2,644
+	710	208	Larchmont Library*	1,245
+	710	209	Larchmont Recreation Center*	4,161
+	710	210	Maury*	2,666
+	710	211	Ohef Sholom*	2,471
+	710	212	Park Place*	2,571
+	710	213	St. Andrew's*	4,226
+	710	214	Stuart*	4,070
+	710	301	Ballentine*	4,665
+	710	302	Tanner's Creek*	3,260
+	710	303	Bowling Park	5,582
+	710	304	Coleman Place School	2,697
+	710	305	Lafayette-Winona*	3,402
+	710	306	Lindenwood*	2,763
+	710	307	Monroe*	1,382
+	710	308	Norview Methodist*	3,274
+	710	309	Norview Recreation Center*	4,843
+	710	310	Rosemont*	6,779
+	710	312	Sherwood School	2,807
+	710	313	Union Chapel	3,152
+	710	402	Berkley*	3,097
+	710	403	Brambleton*	3,200
+	710	404	Campostella*	4,357
+	710	405	Chesterfield*	3,344
+	710	407	Coleman Place Presbyterian*	3,546
+	710	408	Easton*	4,671
+	710	409	Fairlawn*	4,047
+	710	411	Hunton Y*	2,946
+	710	412	Ingleside*	3,453
+	710	413	Poplar Halls*	5,128
+	710	414	Young Park*	5,350
+	710	3111	Sherwood Rec Center Part 1	74
+	710	3112	Sherwood Rec Center Part 2	4,941
+	Virginia Beach city (Part)	10,240
+	810	061	Baker	10,240
+	District number-	5	Total Population:	173,535
+	District	6	Population Deviation: 	-2,023	Percent Deviation:	-1.14	%
+
+	Counties and Cities	60,605
+	001	Accomack	38,305
+	115	Mathews	9,207
+	131	Northampton	13,093
+	Norfolk city (Part)	101,381
+	710	101	Granby	6,528
+	710	103	Northside*	2,320
+	710	104	Titustown Center	21,159
+	710	105	Tucker House	1,330
+	710	202	Crossroads	4,941
+	710	215	Suburban Park*	3,339
+	710	216	Therapeutic Center*	3,681
+	710	217	Wesley	3,318
+	710	218	Willard*	2,804
+	710	401	Azalea Gardens*	2,758
+	710	406	Barron Black*	2,899
+	710	410	Houston*	980
+	710	501	Bayview School*	5,523
+	710	502	Bayview United*	3,345
+	710	503	East Ocean View*	6,052
+	710	504	Larrymore*	4,267
+	710	505	Little Creek	3,707
+	710	507	Ocean View School	8,363
+	710	508	Oceanair*	2,949
+	710	509	Tarrallton	4,472
+	710	510	Third Presbyterian*	1,548
+	710	5061	Ocean View Center Part 1	4,269
+	710	5062	Ocean View Center Part 2	829
+	Virginia Beach city (Part)	12,954
+	810	019	Lake Smith*	4,212
+	810	037	Chesapeake Beach*	8,742
+	District number-	6	Total Population:	174,940
+	District	7	Population Deviation: 	-3,522	Percent Deviation:	-1.99	%
+
+	Virginia Beach city (Part)	171,931
+	810	007	Kingston*	3,871
+	810	013	Mt. Trashmore	6,057
+	810	014	Malibu*	4,357
+	810	015	Old Donation*	5,967
+	810	016	Aragona*	7,162
+	810	017	Ocean Park*	5,493
+	810	018	Thoroughgood	4,615
+	810	020	Bayside*	4,805
+	810	021	Davis Corner	7,327
+	810	022	Point O' View*	3,456
+	810	023	Arrowhead*	4,860
+	810	024	Larkspur*	6,385
+	810	027	Providence*	4,192
+	810	028	Thalia*	8,306
+	810	038	Witchduck	3,672
+	810	039	Pembroke*	5,639
+	810	040	Bonney*	7,434
+	810	041	College Park*	7,564
+	810	042	Brandon*	8,234
+	810	043	Bellamy*	9,548
+	810	044	Centerville*	5,257
+	810	051	Stratford Chase	7,427
+	810	052	Homestead	5,607
+	810	053	Shannon	4,665
+	810	057	Sherry Park*	2,511
+	810	059	Meadows*	1,050
+	810	060	Forest*	774
+	810	065	Colonial*	5,944
+	810	069	Shell*	4,486
+	810	071	Round Hill	7,097
+	810	099	Woodstock (25)/Fairfield (26)*	8,169
+	Virginia Beach city - Little Neck* (056)  (Part)	1,510
+	District number-	7	Total Population:	173,441
+	District	8	Population Deviation: 	-2,735	Percent Deviation:	-1.55	%
+
+	Virginia Beach city (Part)	169,145
+	810	001	North Beach*	3,851
+	810	002	South Beach*	3,157
+	810	004	Linkhorn*	3,258
+	810	006	Alanton	4,406
+	810	008	London Bridge*	8,413
+	810	011	Cape Henry*	4,982
+	810	012	Plaza*	8,851
+	810	029	Holland*	8,465
+	810	033	Capps Shop*	1,882
+	810	036	Windsor Oaks*	6,950
+	810	047	Kings Grant*	4,477
+	810	048	Wolfsnare*	5,357
+	810	049	Lynnhaven*	7,054
+	810	050	Oceana*	9,225
+	810	055	Magic Hollow*	9,567
+	810	062	Landstown*	8,157
+	810	066	Hunt*	5,319
+	810	067	Eastern Shore*	4,627
+	810	068	Hilltop	5,578
+	810	070	Strawbridge	4,000
+	810	096	Ocean Lakes (3)/Red Wing (30)/Sigma (31)/Culver (63)	32,777
+	810	097	Seatack (5)/Rudee (72)*	10,014
+	810	098	Trantwood (9)/Great Neck (10)*	8,778
+	Virginia Beach city - Courthouse (035)  (Part)	3,139
+	Virginia Beach city - Little Neck* (056)  (Part)	1,944
+	District number-	8	Total Population:	174,228
+	District	9	Population Deviation: 	3,529	Percent Deviation:	1.99	%
+
+	Counties and Cities	6,926
+	036	Charles City	6,926
+	Henrico (Part)	90,659
+	087	101	Brookland*	1,037
+	087	201	Adams*	4,172
+	087	202	Azalea*	5,781
+	087	204	Brook Hill*	1,302
+	087	206	Central Gardens*	2,938
+	087	207	Chamberlayne*	1,880
+	087	208	East Highland Park*	1,764
+	087	209	Fairfield*	3,602
+	087	210	Glen Lea*	1,646
+	087	211	Greenwood*	1,634
+	087	212	Highland Gardens*	3,800
+	087	213	Hungary*	1,971
+	087	214	Longdale*	2,062
+	087	216	Ratcliffe*	3,404
+	087	217	Upham*	135
+	087	218	Wilkinson*	556
+	087	219	Yellow Tavern*	2,924
+	087	220	Maplewood*	2,830
+	087	222	Landmark*	511
+	087	501	Cedar Fork*	1,244
+	087	502	Chickahominy*	2,948
+	087	503	Donahoe*	3,203
+	087	504	Eanes*	3,304
+	087	505	Elko*	176
+	087	506	Fairmount*	200
+	087	507	Glen Echo*	866
+	087	508	Highland Springs*	1,627
+	087	509	Laburnum*	3,086
+	087	510	Masonic*	820
+	087	511	Town Hall*	1,075
+	087	512	Montrose*	3,810
+	087	513	Pleasants*	4,968
+	087	514	Sandston*	1,419
+	087	515	Seven Pines*	1,707
+	087	516	Sullivans*	6,160
+	087	517	Mehfoud*	1,597
+	087	518	Whitlocks*	357
+	087	519	Nine Mile*	2,146
+	087	520	Dorey*	3,810
+	087	521	Antioch*	2,187
+	Richmond city (Part)	82,907
+	760	206	206*	2,178
+	760	208	208*	3,403
+	760	211	211*	3,608
+	760	212	212*	2,517
+	760	213	213	2,107
+	760	301	301*	2,884
+	760	302	302*	2,292
+	760	303	303*	1,755
+	760	304	304*	3,519
+	760	305	305*	2,804
+	760	306	306*	1,815
+	760	307	307*	2,195
+	760	308	308*	2,328
+	760	402	402*	2,328
+	760	403	403*	1,721
+	760	404	404*	3,204
+	760	412	412*	3,817
+	760	501	501*	2,738
+	760	502	502*	1,107
+	760	503	503*	3,568
+	760	504	504*	3,490
+	760	505	505*	1,777
+	760	508	508*	1,578
+	760	602	602*	2,356
+	760	603	603*	3,415
+	760	604	604*	2,726
+	760	606	606*	3,503
+	760	607	607	1,013
+	760	608	608*	3,989
+	760	701	701*	4,286
+	760	909	909*	2,886
+	District number-	9	Total Population:	180,492
+	District	10	Population Deviation: 	1,862	Percent Deviation:	1.05	%
+
+	Counties and Cities	33,777
+	007	Amelia	11,400
+	145	Powhatan	22,377
+	Chesterfield (Part)	79,745
+	041	309	Skinquarter*	2,180
+	041	310	Tomahawk	5,480
+	041	312	Evergreen*	4,635
+	041	313	Woolridge	3,929
+	041	403	Brandermill*	3,816
+	041	406	Smoketree	3,169
+	041	407	Monacan	1,922
+	041	408	Reams	5,878
+	041	501	Huguenot*	3,484
+	041	502	Crestwood*	1,987
+	041	503	Midlothian*	4,701
+	041	504	Robious	3,642
+	041	505	Bon Air*	3,914
+	041	506	Greenfield	4,370
+	041	507	Salisbury	4,178
+	041	509	Cranbeck	2,458
+	041	510	Sycamore*	4,317
+	041	512	Shenandoah*	4,221
+	041	513	Beaufont*	2,162
+	041	514	Watkins*	3,064
+	041	599	Belgrade 508/Black Heath 511*	6,238
+	Goochland (Part)	10,614
+	075	101	Fife*	1,211
+	075	102	Hadensville*	2,118
+	075	201	Three Square*	759
+	075	202	Sandy Hook*	2,894
+	075	301	Goochland Court House*	3,632
+	Henrico (Part)	1,200
+	087	308	Monument Hills*	1,200
+	Louisa (Part)	11,006
+	109	501	Fredericks Hall	1,555
+	109	502	Cuckoo	2,169
+	109	601	Bumpass*	1,430
+	109	602	Locust Creek*	2,282
+	109	701	Sheltons Mill*	2,547
+	109	702	South Anna*	1,023
+	Richmond city (Part)	42,483
+	760	101	101	4,625
+	760	102	102	1,349
+	760	103	103*	2,072
+	760	104	104*	1,279
+	760	105	105*	2,135
+	760	106	106	1,999
+	760	111	111*	1,911
+	760	112	112*	1,668
+	760	113	113*	2,501
+	760	114	114*	3,398
+	760	203	203*	2,153
+	760	204	204*	3,011
+	760	207	207*	3,058
+	760	409	409*	3,496
+	760	410	410*	4,582
+	760	411	411*	997
+	760	413	413*	2,249
+	District number-	10	Total Population:	178,825
+	District	11	Population Deviation: 	-3,060	Percent Deviation:	-1.73	%
+
+	Counties and Cities	16,897
+	570	Colonial Heights city	16,897
+	Chesterfield (Part)	157,006
+	041	102	South Chester*	5,066
+	041	104	North Chester*	5,190
+	041	106	Harrowgate*	4,191
+	041	107	Wells*	6,888
+	041	108	Ecoff*	4,578
+	041	111	Iron Bridge*	2,878
+	041	201	Gates*	3,928
+	041	202	Beulah*	4,661
+	041	203	Bird*	4,184
+	041	204	Jacobs*	4,078
+	041	205	Falling Creek*	5,202
+	041	206	Belmont*	6,290
+	041	207	Chippenham*	6,143
+	041	208	Meadowbrook*	4,508
+	041	209	Salem Church*	5,957
+	041	210	Five Forks	2,939
+	041	301	Ettrick*	5,627
+	041	302	Deer Run*	5,717
+	041	303	Matoaca	5,287
+	041	304	Winfrees Store	3,161
+	041	305	Beach*	4,314
+	041	306	Winterpock	3,617
+	041	311	Walthall*	2,023
+	041	314	Branches*	1,361
+	041	315	Bailey Bridge*	4,082
+	041	316	Spring Run*	4,561
+	041	399	Pocahontas 307/Crenshaw 308	9,601
+	041	402	Genito*	6,833
+	041	404	Providence	4,313
+	041	405	Lyndale*	2,754
+	041	409	Manchester*	4,822
+	041	410	Wagstaff*	2,385
+	041	412	Davis	3,573
+	041	499	Harbour Pointe 401/Swift Creek 411*	6,294
+	District number-	11	Total Population:	173,903
+	District	12	Population Deviation: 	1,271	Percent Deviation:	0.72	%
+
+	Goochland (Part)	6,249
+	075	402	Centerville*	2,920
+	075	501	Manakin*	3,329
+	Henrico (Part)	170,441
+	087	102	Dumbarton*	6,776
+	087	103	Glen Allen*	4,402
+	087	104	Glenside*	3,091
+	087	105	Greendale*	2,750
+	087	106	Hermitage*	2,341
+	087	107	Hilliard*	1,790
+	087	108	Hunton*	1,150
+	087	109	Johnson*	3,531
+	087	110	Lakeside*	4,239
+	087	111	Longan*	4,297
+	087	112	Maude Trevvett*	4,932
+	087	113	Moody*	2,819
+	087	114	Staples Mill*	4,924
+	087	115	Stratford Hall*	750
+	087	116	Summit Court*	1,892
+	087	203	Bloomingdale*	1,761
+	087	205	Canterbury*	565
+	087	215	Randolph*	397
+	087	221	Chipplegate*	989
+	087	301	Cardinal*	605
+	087	302	Coalpit*	5,274
+	087	303	Crestview*	3,655
+	087	304	Freeman*	2,329
+	087	305	Innsbrook*	6,198
+	087	306	Jackson Davis*	2,667
+	087	307	Lauderdale*	3,560
+	087	309	Ridge*	2,238
+	087	310	Sadler*	8,140
+	087	311	Cedarfield	5,749
+	087	312	Skipwith*	4,095
+	087	313	Three Chopt*	3,075
+	087	314	Tucker*	6,593
+	087	315	Westwood*	2,544
+	087	316	Causeway*	6,276
+	087	317	Stoney Run	5,096
+	087	401	Byrd*	3,641
+	087	402	Lakewood*	3,074
+	087	403	Derbyshire*	2,137
+	087	404	Gayton*	3,973
+	087	405	G0dwin*	2,979
+	087	406	Maybeury*	5,581
+	087	407	Mooreland*	2,018
+	087	408	Pemberton*	4,201
+	087	409	Pinchbeck*	4,804
+	087	410	Ridgefield*	4,174
+	087	411	Rollingwood*	2,157
+	087	412	Spottswood*	1,357
+	087	413	Tuckahoe*	4,314
+	087	414	West End*	4,541
+	Richmond city (Part)	1,544
+	760	309	309*	1,544
+	District number-	12	Total Population:	178,234
+	District	13	Population Deviation: 	-3,463	Percent Deviation:	-1.96	%
+
+	Counties and Cities	6,829
+	181	Surry	6,829
+	Isle of Wight (Part)	28,937
+	093	101	Smithfield	6,567
+	093	202	Carrollton	6,808
+	093	301	Rushmere	2,543
+	093	302	Pons	2,980
+	093	401	Courthouse*	1,639
+	093	402	Windsor*	2,910
+	093	403	Orbit*	989
+	093	501	Walters*	1,424
+	093	503	Carrsville*	1,216
+	093	504	Zuni*	1,861
+	Prince George (Part)	17,557
+	149	102	Templeton*	3,476
+	149	202	Blackwater*	3,590
+	149	203	Brandon*	3,132
+	149	204	Courts Bldg*	3,085
+	149	201	Bland*	4,274
+	Southampton (Part)	8,020
+	175	101	Berlin*	1,099
+	175	102	Ivor*	1,474
+	175	302	Sebrell*	778
+	175	501	Hunterdale*	1,553
+	175	601	Courtland*	2,360
+	175	602	Sedley*	756
+	Chesapeake city (Part)	22,831
+	550	004	Churchland*	3,428
+	550	019	Jolliff One*	2,061
+	550	021	Fellowship Baptist Church	3,068
+	550	027	Silverwood*	4,573
+	550	035	Taylor Road Fire Station*	6,485
+	550	038	Bailey Creek*	1,850
+	550	044	Nansemond	1,366
+	Franklin city (Part)	4,640
+	620	101	Precinct 1-1*	1,603
+	620	201	Precinct 2-1*	1,570
+	620	601	Precinct 6-1*	1,467
+	Hopewell city (Part)	15,922
+	670	201	Ward 2*	2,827
+	670	301	Ward 3	3,249
+	670	401	Ward 4	3,333
+	670	501	Ward 5*	3,180
+	670	101	Ward 1*	3,333
+	Portsmouth city (Part)	33,975
+	740	010	Ten*	2,080
+	740	023	Twenty-Three*	2,752
+	740	024	Twenty-Four*	2,323
+	740	025	Twenty-Five*	2,380
+	740	029	Twenty-Nine*	1,822
+	740	030	Thirty*	2,711
+	740	031	Thirty-One*	4,576
+	740	032	Thirty-Two*	1,874
+	740	033	Thirty-Three*	1,740
+	740	034	Thirty-Four*	2,144
+	740	035	Thirty-Five	2,975
+	740	036	Thirty-Six	6,598
+	Suffolk city (Part)	34,789
+	800	101	Yeates	2,771
+	800	102	Driver*	4,291
+	800	201	Ebenezer*	2,028
+	800	202	Chuckatuck	2,392
+	800	203	King's Fork	6,397
+	800	501	Kilby's Mill*	3,717
+	800	502	Holland*	2,067
+	800	601	Lakeside*	4,643
+	800	702	Elephant's Fork*	3,004
+	800	703	Nansemond River	2,688
+	800	704	Lake Meade*	791
+	District number-	13	Total Population:	173,500
+	District	14	Population Deviation: 	-1,591	Percent Deviation:	-0.90	%
+
+	Chesapeake city (Part)	120,978
+	550	001	Great Bridge*	4,558
+	550	002	Bethel*	3,796
+	550	006	Deep Creek*	5,057
+	550	007	Greenbrier*	7,560
+	550	009	Bells Mill*	4,619
+	550	011	Geneva Park	5,335
+	550	013	Gilmerton*	3,094
+	550	015	B. M. Williams School*	4,476
+	550	016	Hickory Grove*	4,511
+	550	017	Indian Creek*	3,668
+	550	018	Indian River*	3,935
+	550	022	Norfolk Highlands*	2,784
+	550	023	Oak Grove*	7,349
+	550	029	Tanglewood*	3,092
+	550	033	Westover*	2,276
+	550	034	Hickory Middle School*	8,923
+	550	036	Great Bridge Middle School*	6,546
+	550	037	Bridgetown*	6,025
+	550	039	Lake Drummond*	1,525
+	550	040	River Birch*	5,244
+	550	041	John T. West*	6,739
+	550	042	Parkways*	6,495
+	550	043	Pleasant Crossing*	6,280
+	550	046	Bells Mill II*	2,831
+	550	047	Green Sea*	3,583
+	550	0141	Grassfield Part 1*	628
+	550	0142	Grassfield Part 2*	49
+	Virginia Beach city (Part)	48,708
+	810	032	Creeds*	1,618
+	810	034	Blackwater*	1,024
+	810	045	Timberlake*	3,509
+	810	046	Green Run*	11,251
+	810	054	Salem	11,110
+	810	058	Glenwood*	5,188
+	810	064	Rosemont Forest	5,834
+	810	073	Dahlia*	9,174
+	Virginia Beach city - Courthouse (035)  (Part)	5,686
+	District number-	14	Total Population:	175,372
+	District	15	Population Deviation: 	-2,158	Percent Deviation:	-1.22	%
+
+	Counties and Cities	160,319
+	011	Appomattox	13,705
+	029	Buckingham	15,623
+	037	Charlotte	12,472
+	049	Cumberland	9,017
+	065	Fluvanna	20,047
+	083	Halifax	37,355
+	117	Mecklenburg	32,380
+	147	Prince Edward	19,720
+	Brunswick (Part)	3,962
+	025	101	Brodnax*	904
+	025	102	Rock Store*	1,364
+	025	103	Tillman*	1,118
+	025	201	Dromgoole*	576
+	Lunenburg (Part)	10,524
+	111	101	Plymouth	1,675
+	111	201	Brown's Store	1,647
+	111	302	Mccoy Ghee's Store	976
+	111	401	Arrowhead Gun Club*	629
+	111	402	Pleasant Grove*	1,183
+	111	501	Reedy Creek	859
+	111	502	Peoples Community Center	1,842
+	111	701	Meherrin Fire Dept*	807
+	111	702	Courthouse*	906
+	District number-	15	Total Population:	174,805
+	District	16	Population Deviation: 	-2,760	Percent Deviation:	-1.56	%
+
+	Counties and Cities	58,273
+	053	Dinwiddie	24,533
+	730	Petersburg city	33,740
+	Chesterfield (Part)	23,152
+	041	101	Bellwood*	6,050
+	041	103	Enon*	3,489
+	041	105	Drewry's Bluff*	6,649
+	041	109	Point Of Rocks	464
+	041	110	Dutch Gap	6,500
+	Prince George (Part)	15,490
+	149	101	Richard Bland College*	1,554
+	149	103	Union Branch*	2,555
+	149	104	Rives*	3,594
+	149	205	Jefferson Park*	7,787
+	Hopewell city (Part)	6,432
+	670	601	Ward 6	3,034
+	670	701	Ward 7	3,398
+	Richmond city (Part)	70,856
+	760	509	509*	3,690
+	760	510	510*	4,011
+	760	609	609	3,169
+	760	610	610*	1,545
+	760	702	702*	1,878
+	760	703	703*	2,193
+	760	704	704*	1,725
+	760	705	705	2,249
+	760	706	706	4,639
+	760	707	707	4,256
+	760	802	802*	2,719
+	760	806	806	1,681
+	760	807	807*	1,844
+	760	810	810*	3,525
+	760	811	811*	2,856
+	760	812	812*	4,025
+	760	813	813	3,377
+	760	902	902*	3,585
+	760	903	903*	6,244
+	760	906	906*	2,858
+	760	908	908	2,735
+	760	910	910*	3,914
+	760	911	911	2,138
+	District number-	16	Total Population:	174,203
+	District	17	Population Deviation: 	2,405	Percent Deviation:	1.36	%
+
+	Counties and Cities	91,942
+	047	Culpeper	34,262
+	113	Madison	12,520
+	137	Orange	25,881
+	630	Fredericksburg city	19,279
+	Albemarle (Part)	9,134
+	003	501	Keswick*	3,888
+	003	504	Free Bridge*	5,246
+	Louisa (Part)	14,621
+	109	101	Zion*	1,462
+	109	102	Mechanicsville	2,046
+	109	103	Trevilians	639
+	109	201	Louisa*	3,560
+	109	301	Patrick Henry #1*	1,872
+	109	302	Patrick Henry #2*	1,698
+	109	401	Mineral*	2,492
+	109	402	Yanceyville*	852
+	Spotsylvania (Part)	63,671
+	177	201	Grange Hall*	3,750
+	177	202	Maury*	14,048
+	177	301	Plank Road*	10,910
+	177	402	Frazers Gate*	5,303
+	177	501	Belmont*	2,211
+	177	502	Brokenburg*	3,730
+	177	503	Todd's Tavern	1,251
+	177	504	Holbert	3,337
+	177	601	Salem*	11,642
+	177	702	Brent's Mill*	7,489
+	District number-	17	Total Population:	179,368
+	District	18	Population Deviation: 	-2,826	Percent Deviation:	-1.60	%
+
+	Counties and Cities	45,454
+	081	Greensville	11,560
+	135	Nottoway	15,725
+	183	Sussex	12,504
+	595	Emporia city	5,665
+	Brunswick (Part)	14,457
+	025	202	Edgerton	1,797
+	025	203	Fitzhugh*	1,175
+	025	301	Alberta*	306
+	025	302	Danieltown	1,454
+	025	303	Elmore	661
+	025	304	Seymour	672
+	025	401	Sturgeon	4,787
+	025	402	King's Store	750
+	025	501	Lawrenceville	2,855
+	Isle of Wight (Part)	791
+	093	502	Camps Mill*	791
+	Lunenburg (Part)	2,622
+	111	301	Parham's Store	918
+	111	601	Hound's Creek*	1,704
+	Southampton (Part)	9,462
+	175	201	Boykins*	1,601
+	175	202	Branchville*	528
+	175	301	Capron*	1,312
+	175	401	Drewryville*	2,738
+	175	502	Forks-of-the-River*	617
+	175	701	Blackwater River*	1,240
+	175	702	Newsoms*	1,426
+	Chesapeake city (Part)	25,102
+	550	003	Camelot	6,566
+	550	010	Oscar Smith School*	2,384
+	550	020	E. W. Chittum School*	5,815
+	550	025	St. Julians*	964
+	550	026	Johnson Park*	2,791
+	550	028	Sunray I*	366
+	550	045	Sunray II*	1,746
+	550	008	South Norfolk Recreation*	4,470
+	Franklin city (Part)	3,706
+	620	301	Precinct 3-1	1,357
+	620	401	Precinct 4-1	948
+	620	501	Precinct 5-1*	1,401
+	Portsmouth city (Part)	47,442
+	740	001	One*	3,541
+	740	005	Five*	3,311
+	740	007	Seven	2,887
+	740	009	Nine	2,352
+	740	011	Eleven*	3,075
+	740	013	Thirteen*	3,069
+	740	014	Fourteen*	3,362
+	740	016	Sixteen*	3,276
+	740	017	Seventeen*	4,735
+	740	019	Nineteen*	1,893
+	740	020	Twenty*	3,494
+	740	021	Twenty-One*	2,285
+	740	026	Twenty-Six*	2,744
+	740	027	Twenty-Seven*	4,111
+	740	028	Twenty-Eight*	3,307
+	Suffolk city (Part)	21,861
+	800	301	White Marsh	3,081
+	800	302	John F. Kennedy	3,124
+	800	303	Cypress Chapel*	1,505
+	800	401	Airport*	5,660
+	800	402	Whaleyville*	1,571
+	800	503	Holy Neck*	1,681
+	800	602	Olde Towne*	2,784
+	800	701	Hollywood*	2,455
+	Portsmouth city - Twenty-Two* (022)  (Part)	3,240
+	District number-	18	Total Population:	174,137
+	District	19	Population Deviation: 	3,536	Percent Deviation:	2.00	%
+
+	Counties and Cities	157,442
+	067	Franklin	47,286
+	143	Pittsylvania	61,745
+	590	Danville city	48,411
+	Campbell (Part)	22,452
+	031	201	Courthouse*	4,027
+	031	203	Morris Church*	2,374
+	031	501	Brookneal*	4,273
+	031	502	Gladys*	1,595
+	031	503	Staunton River*	693
+	031	601	Altavista*	3,433
+	031	602	Lynch Station*	2,366
+	031	701	Yellow Branch*	3,691
+	Campbell - Evington* (603)  (Part)	600
+	Campbell - Spring Hill* (702)  (Part)	5
+	District number-	19	Total Population:	180,499
+	District	20	Population Deviation: 	3,301	Percent Deviation:	1.87	%
+
+	Counties and Cities	142,709
+	035	Carroll	29,245
+	063	Floyd	13,874
+	089	Henry	57,930
+	141	Patrick	19,407
+	640	Galax city	6,837
+	690	Martinsville city	15,416
+	Grayson (Part)	12,001
+	077	203	Independence	3,135
+	077	301	Baywood*	1,621
+	077	302	Fairview*	2,613
+	077	303	Oldtown*	836
+	077	402	Providence	2,423
+	077	4011	Fries Part 1	1,278
+	077	4012	Fries Part 2	95
+	Wythe (Part)	25,554
+	197	101	Royal Oak*	1,657
+	197	102	Rural Retreat*	3,448
+	197	201	Evansham	1,015
+	197	202	Pine Ridge	2,905
+	197	301	Spiller*	2,678
+	197	302	Withers*	1,683
+	197	401	Fort Chiswell*	2,004
+	197	402	Max Meadows*	2,976
+	197	502	Sheffey*	2,511
+	197	601	Huddle	1,406
+	197	602	Zion	1,858
+	197	603	Evergreen*	1,413
+	District number-	20	Total Population:	180,264
+	District	21	Population Deviation: 	2,423	Percent Deviation:	1.37	%
+
+	Counties and Cities	116,659
+	045	Craig	5,091
+	071	Giles	16,657
+	770	Roanoke city	94,911
+	Montgomery (Part)	49,874
+	121	101	A-1*	2,126
+	121	102	A-2	4,158
+	121	103	A-3*	4,366
+	121	201	B-1*	2,059
+	121	501	E-1	12,718
+	121	502	E-2	1,046
+	121	601	F-1*	4,904
+	121	602	F-2*	5,203
+	121	701	G-1	4,362
+	121	702	G-2*	8,932
+	Pulaski (Part)	1,258
+	155	101	Belspring*	1,258
+	Roanoke (Part)	11,595
+	161	101	Catawba	1,000
+	161	102	Mason Valley	1,034
+	161	104	Northside*	1,504
+	161	105	Peters Creek	3,598
+	161	107	Bennett Springs	1,424
+	161	204	Botetourt Springs	1,782
+	161	207	Woodlands	1,253
+	District number-	21	Total Population:	179,386
+	District	22	Population Deviation: 	2,077	Percent Deviation:	1.17	%
+
+	Counties and Cities	71,104
+	023	Botetourt	30,496
+	121	Montgomery - A	2
+	750	Radford city	15,859
+	775	Salem city	24,747
+	Montgomery (Part)	33,753
+	121	202	B-2*	5,610
+	121	203	B-3*	4,755
+	121	301	C-1	4,659
+	121	302	C-2	1,854
+	121	303	C-3*	1,279
+	121	304	C-4*	2,801
+	121	401	D-1*	2,736
+	121	402	D-2*	2,431
+	121	4031	D-3 Part 1	3,337
+	121	404	D-4*	1,432
+	121	405	D-5	2,859
+	Roanoke (Part)	74,183
+	161	103	Glenvar	3,977
+	161	106	Green Hill	3,909
+	161	201	Plantation*	3,678
+	161	202	Burlington*	2,624
+	161	203	Mountain View	3,423
+	161	205	Bonsack	3,779
+	161	206	Hollins*	2,202
+	161	301	Bent Mountain	897
+	161	302	Poages Mill	3,559
+	161	303	Windsor Hills*	2,339
+	161	306	Garst Mill*	2,633
+	161	399	Oak Grove 304/Castle Rock 305	7,932
+	161	403	North Vinton*	3,529
+	161	404	South Vinton*	4,253
+	161	405	Lindenwood*	4,367
+	161	406	Mount Pleasant*	3,782
+	161	501	Cotton Hill*	1,522
+	161	502	Penn Forest*	2,348
+	161	503	Cave Spring*	2,413
+	161	504	Ogden*	3,305
+	161	505	Clearbrook*	2,108
+	161	506	Mount Vernon*	2,153
+	161	507	Hunting Hills*	3,451
+	District number-	22	Total Population:	179,040
+	District	23	Population Deviation: 	3,423	Percent Deviation:	1.93	%
+
+	Counties and Cities	131,939
+	019	Bedford	60,371
+	515	Bedford city	6,299
+	680	Lynchburg city	65,269
+	Amherst (Part)	20,426
+	009	103	Coolwell*	1,919
+	009	301	Monroe*	2,350
+	009	302	Elon*	3,357
+	009	303	Pleasant View*	1,050
+	009	401	Amelon*	5,518
+	009	501	Madison*	6,232
+	Campbell (Part)	23,070
+	031	101	Brookville*	4,037
+	031	102	New London*	2,810
+	031	202	White's Church*	1,244
+	031	301	Bedford Springs*	3,329
+	031	302	Walker*	4,223
+	031	401	Concord*	3,620
+	031	402	Kings*	2,292
+	031	403	Airport*	1,515
+	Campbell - Evington* (603)  (Part)	756
+	Campbell - Spring Hill* (702)  (Part)	4,195
+	District number-	23	Total Population:	180,386
+	District	24	Population Deviation: 	2,937	Percent Deviation:	1.66	%
+
+	Counties and Cities	133,635
+	015	Augusta	65,615
+	079	Greene	15,244
+	091	Highland	2,536
+	678	Lexington city	6,867
+	790	Staunton city	23,853
+	820	Waynesboro city	19,520
+	Albemarle (Part)	9,246
+	003	601	Crozet*	7,433
+	003	602	Free Union*	1,813
+	Rockbridge (Part)	7,095
+	163	202	Highland Belle	2,282
+	163	203	Vo-Tech*	768
+	163	501	Goshen	1,020
+	163	502	Meadowview*	946
+	163	503	Rockbridge Baths	777
+	163	504	Rockbridge	1,302
+	Rockingham (Part)	29,924
+	165	204	Keezletown	1,670
+	165	206	Mill Creek*	676
+	165	305	Massanetta Springs*	4,399
+	165	402	Montezuma*	1,709
+	165	403	Mt. Crawford*	254
+	165	404	Grottoes*	5,074
+	165	406	North River*	2,376
+	165	501	Elkton*	2,042
+	165	502	Swift Run	4,623
+	165	503	Mcgaheysville	5,190
+	165	504	South Fork	1,911
+	District number-	24	Total Population:	179,900
+	District	25	Population Deviation: 	3,483	Percent Deviation:	1.97	%
+
+	Counties and Cities	94,409
+	005	Alleghany	12,926
+	017	Bath	5,048
+	125	Nelson	14,445
+	530	Buena Vista city	6,349
+	540	Charlottesville city	45,049
+	560	Clifton Forge city	4,289
+	580	Covington city	6,303
+	Albemarle (Part)	60,856
+	003	101	Woodbrook*	3,452
+	003	102	Commonwealth*	4,657
+	003	103	Branchlands*	1,716
+	003	104	Agnor-Hurt*	2,626
+	003	201	Jack Jouett*	6,355
+	003	202	University Hall*	2,626
+	003	301	Ivy*	4,626
+	003	304	East Ivy*	1,775
+	003	399	North Garden 302 / Batesville 303	4,848
+	003	401	Scottsville*	2,296
+	003	402	Monticello*	3,160
+	003	403	Porter's	2,133
+	003	404	Covesville	526
+	003	405	Cale*	6,111
+	003	502	Stony Point*	1,461
+	003	503	Hollymead*	8,309
+	003	603	Earlysville*	4,179
+	Amherst (Part)	11,468
+	009	101	Wright Shop*	2,330
+	009	102	New Glasgow*	2,543
+	009	201	Courthouse*	4,972
+	009	202	Temperance*	1,623
+	Rockbridge (Part)	13,713
+	163	101	Airport*	1,588
+	163	102	Ben Salem*	1,054
+	163	103	Fancy Hill*	1,040
+	163	104	Effinger*	826
+	163	201	Collierstown	1,033
+	163	301	Glasgow*	1,046
+	163	302	Natural Bridge*	2,821
+	163	401	Fairfield*	1,319
+	163	402	Mountain View*	2,108
+	163	403	Vesuvius	878
+	District number-	25	Total Population:	180,446
+	District	26	Population Deviation: 	-1,875	Percent Deviation:	-1.06	%
+
+	Counties and Cities	137,287
+	139	Page	23,177
+	157	Rappahannock	6,983
+	171	Shenandoah	35,075
+	187	Warren	31,584
+	660	Harrisonburg city	40,468
+	Rockingham (Part)	37,801
+	165	101	Broadway*	3,230
+	165	102	Timberville*	4,115
+	165	103	Fulks Run	2,590
+	165	104	Bergton	792
+	165	105	Lacey Spring*	1,619
+	165	201	Singers Glen*	2,445
+	165	202	Edom*	2,325
+	165	203	Melrose	3,367
+	165	205	Tenth Legion*	1,542
+	165	301	Dayton*	2,319
+	165	302	Turner Ashby (Silver Lake)*	2,637
+	165	303	Ottobine*	3,791
+	165	304	Mt. Clinton*	1,826
+	165	401	Bridgewater*	5,203
+	District number-	26	Total Population:	175,088
+	District	27	Population Deviation: 	-169	Percent Deviation:	-0.10	%
+
+	Counties and Cities	95,446
+	043	Clarke	12,652
+	069	Frederick	59,209
+	840	Winchester city	23,585
+	Fauquier (Part)	45,328
+	061	101	Kettle Run*	1,599
+	061	103	Casanova*	1,734
+	061	201	Warrenton*	6,528
+	061	202	Baldwin Ridge*	4,915
+	061	302	Remington*	6,406
+	061	303	Opal*	1,973
+	061	401	Marshall*	3,678
+	061	402	Leeds*	2,039
+	061	403	Waterloo*	4,734
+	061	404	Upperville*	830
+	061	501	The Plains*	3,201
+	061	502	New Baltimore*	5,051
+	061	503	Broad Run*	2,640
+	Loudoun (Part)	34,884
+	107	202	Middleburg	1,868
+	107	203	St Louis*	1,724
+	107	301	Purcellville	4,173
+	107	302	Round Hill*	3,259
+	107	303	Hillsboro*	2,104
+	107	304	Hamilton*	4,004
+	107	305	Philomont	1,827
+	107	401	Lovettsville*	4,226
+	107	402	Waterford*	2,462
+	107	403	Lucketts	1,945
+	107	404	Between The Hills*	413
+	107	405	Greenway*	4,903
+	107	503	Dry Mill*	1,976
+	Loudoun - Aldie (204)  (Part)	1,136
+	District number-	27	Total Population:	176,794
+	District	28	Population Deviation: 	-1,229	Percent Deviation:	-0.69	%
+
+	Counties and Cities	158,602
+	099	King George	16,803
+	103	Lancaster	11,567
+	133	Northumberland	12,259
+	159	Richmond	8,809
+	179	Stafford	92,446
+	193	Westmoreland	16,718
+	Fauquier (Part)	9,811
+	061	102	Catlett*	3,935
+	061	104	Lois*	2,232
+	061	301	Morrisville*	3,644
+	Prince William (Part)	7,321
+	153	304	Quantico	7,321
+	District number-	28	Total Population:	175,734
+	District	29	Population Deviation: 	827	Percent Deviation:	0.47	%
+
+	Counties and Cities	45,425
+	683	Manassas city	35,135
+	685	Manassas Park city	10,290
+	Prince William (Part)	132,365
+	153	101	Brentsville	2,096
+	153	104	Nokesville	1,746
+	153	105	Parkside	7,219
+	153	106	Jackson*	2,362
+	153	107	Linton Hall	9,542
+	153	109	Park	2,880
+	153	201	Saunders*	6,337
+	153	203	Coles*	3,958
+	153	206	King*	5,579
+	153	301	Dumfries*	4,931
+	153	303	Graham Park	5,371
+	153	305	Pattie*	3,185
+	153	306	Washington-Reid*	6,136
+	153	307	Henderson*	6,151
+	153	308	Montclair*	4,192
+	153	401	Evergreen*	4,617
+	153	402	Haymarket*	6,664
+	153	403	Loch Lomond*	2,496
+	153	404	Sinclair	5,693
+	153	405	Stonewall	2,066
+	153	406	Sudley	2,402
+	153	407	Westgate*	4,749
+	153	408	Catharpin*	2,302
+	153	409	Bull Run*	4,356
+	153	410	Plantation*	1,939
+	153	411	Mullen*	6,494
+	153	602	Neabsco*	4,759
+	153	603	Godwin*	8,328
+	153	607	Kerrydale*	3,815
+	District number-	29	Total Population:	177,790
+	District	30	Population Deviation: 	1,839	Percent Deviation:	1.04	%
+
+	Arlington (Part)	66,279
+	013	001	Arlington*	9,006
+	013	003	Aurora Hills*	2,903
+	013	006	Crystal City*	5,137
+	013	008	Hume*	4,049
+	013	009	Columbia	4,054
+	013	012	Fairlington*	3,090
+	013	021	Virginia Highlands*	3,440
+	013	022	Abingdon	3,032
+	013	026	Fillmore*	5,175
+	013	028	Claremont*	6,556
+	013	030	Glebe	6,256
+	013	032	Oakridge*	5,337
+	013	038	Arlington View	4,877
+	013	042	Shirlington	3,367
+	Fairfax (Part)	33,607
+	059	405	Groveton	10,760
+	059	408	Mount Eagle*	7,382
+	059	604	Bucknell	7,140
+	059	607	Huntington*	5,812
+	059	621	Grosvenor*	2,513
+	Alexandria city (Part)	68,739
+	510	101	Annie B. Rose House	4,178
+	510	102	City Hall*	2,932
+	510	103	Lyles Crouch School*	3,290
+	510	104	Jefferson Houston School	5,486
+	510	105	Lee Center	5,567
+	510	106	Cora Kelly Center	11,931
+	510	107	Mt. Vernon Recreation Center*	4,453
+	510	108	George Washington School	3,567
+	510	202	George Mason School	3,270
+	510	203	Agudas Achim Synagogue	3,526
+	510	207	Temple Beth El Synagogue	5,081
+	510	298	Maury School 201/Blessed Sacrament Church 204	6,742
+	510	299	Second Presbyterian 205/Howard 9th Grade Center 206	8,716
+	Fairfax - Hayfield 406/Woodlawn 412/Fairfield 413 (499)  (Part)	10,177
+	District number-	30	Total Population:	178,802
+	District	31	Population Deviation: 	706	Percent Deviation:	0.40	%
+
+	Counties and Cities	10,377
+	610	Falls Church city	10,377
+	Arlington (Part)	123,174
+	013	002	Ashton Heights*	3,401
+	013	004	Ballston*	4,400
+	013	005	Barcroft	4,060
+	013	007	Cherrydale	3,542
+	013	010	Wilson*	9,993
+	013	011	East Falls Church*	2,428
+	013	013	Glen Carlyn*	9,369
+	013	014	Clarendon*	5,275
+	013	015	Lyon Park*	3,745
+	013	016	Lyon Village	4,201
+	013	017	Overlee Knolls	3,182
+	013	018	Park Lane	4,906
+	013	019	Rosslyn*	4,859
+	013	020	Thrifton	3,264
+	013	023	Westover*	2,941
+	013	024	Woodlawn	5,385
+	013	025	Arlington Forest*	8,585
+	013	027	Jefferson	4,206
+	013	029	Dominion Hills	3,334
+	013	031	Lexington*	3,390
+	013	033	Rock Spring*	3,442
+	013	034	Yorktown	3,170
+	013	035	Madison*	3,740
+	013	036	Marshall	4,430
+	013	037	Nottingham*	2,913
+	013	039	Ashlawn*	2,634
+	013	040	Virginia Square*	4,502
+	013	041	Woodbury*	3,877
+	Fairfax (Part)	44,118
+	059	501	Baileys	6,178
+	059	502	Barcroft*	3,838
+	059	505	Glen Forest*	7,280
+	059	506	Holmes*	9,156
+	059	511	Ravenwood*	2,101
+	059	517	Willston*	5,967
+	059	520	Skyline	6,319
+	059	703	Fort Buffalo*	3,279
+	District number-	31	Total Population:	177,669
+	District	32	Population Deviation: 	53	Percent Deviation:	0.03	%
+
+	Fairfax (Part)	177,016
+	059	208	Reston #1*	6,302
+	059	209	Reston #2*	4,726
+	059	220	Dogwood*	7,716
+	059	221	Hunters Woods*	3,157
+	059	222	Reston #3*	3,225
+	059	223	Glade*	5,144
+	059	224	South Lakes	5,315
+	059	225	Terraset*	7,022
+	059	233	North Point*	5,601
+	059	234	Aldrin*	7,069
+	059	301	Chain Bridge*	4,537
+	059	302	Chesterbrook*	3,187
+	059	303	Churchill*	2,131
+	059	304	Cooper*	5,268
+	059	305	El Nido*	2,891
+	059	306	Great Falls*	2,442
+	059	307	Haycock*	2,946
+	059	309	Kenmore*	4,579
+	059	310	Kirby	2,790
+	059	311	Langley*	2,847
+	059	312	Longfellow*	3,159
+	059	314	Mclean	3,011
+	059	315	Pimmit*	5,357
+	059	316	Salona*	3,491
+	059	317	Westhampton*	2,926
+	059	318	Westmoreland*	1,826
+	059	319	Herndon #1*	4,102
+	059	320	Herndon #2*	10,508
+	059	321	Clearview*	6,148
+	059	322	Forestville	3,765
+	059	324	Herndon #3*	7,052
+	059	325	Hutchison*	3,952
+	059	326	Stuart*	1,865
+	059	327	Sugarland*	4,483
+	059	328	Hickory*	3,933
+	059	329	Seneca	4,326
+	059	708	Marshall*	8,134
+	059	726	Magarity*	5,680
+	059	731	Tysons*	4,403
+	District number-	32	Total Population:	177,016
+	District	33	Population Deviation: 	280	Percent Deviation:	0.16	%
+
+	Fairfax (Part)	43,664
+	059	229	Fox Mill*	6,149
+	059	299	Floris 203/Frying Pan 235	14,652
+	059	905	Franklin	4,672
+	059	908	Kinross	6,797
+	059	911	Navy*	6,810
+	059	920	Lees Corner	4,584
+	Loudoun (Part)	132,301
+	107	101	Sanders Corner	7,453
+	107	102	Ashburn Farm	10,098
+	107	103	Guilford*	5,916
+	107	104	Forest Ridge*	6,085
+	107	201	Simpson*	6,157
+	107	205	Arcola*	7,741
+	107	406	Balls Bluff	5,124
+	107	501	West Leesburg*	3,607
+	107	502	East Leesburg*	6,220
+	107	504	Oakcrest*	4,180
+	107	604	Sugarland North	5,544
+	107	605	Sugarland South	4,842
+	107	606	Seneca*	7,635
+	107	607	Lowes Island*	4,680
+	107	701	Sully*	4,436
+	107	702	Park View*	2,109
+	107	703	Rolling Ridge*	7,144
+	107	803	Farmwell Station*	7,743
+	107	804	Algonkian*	5,496
+	107	805	Ashburn Village*	7,401
+	107	806	Potomac	8,354
+	107	807	Cascades	4,336
+	Loudoun - Aldie (204)  (Part)	1,278
+	District number-	33	Total Population:	177,243
+	District	34	Population Deviation: 	-1,380	Percent Deviation:	-0.78	%
+
+	Counties and Cities	22,573
+	600	Fairfax city	21,498
+	059	Fairfax - A	1,075
+	Fairfax (Part)	153,010
+	059	109	Olde Creek*	3,173
+	059	113	Oak Hill*	2,968
+	059	118	Lake Braddock*	6,995
+	059	119	Laurel*	5,780
+	059	121	Villa*	2,777
+	059	122	Long Branch*	2,184
+	059	123	Robinson*	6,285
+	059	124	Olley*	2,454
+	059	125	Signal Hill*	4,207
+	059	201	Colvin*	3,149
+	059	202	Flint Hill	5,728
+	059	213	Vienna #1	5,229
+	059	214	Vienna #2	3,941
+	059	216	Vienna #4	2,366
+	059	218	Vienna #6*	2,917
+	059	219	Westbriar	4,610
+	059	226	Wolftrap	4,431
+	059	227	Sunrise Valley	2,373
+	059	323	Shouse*	2,633
+	059	519	Hummer*	2,736
+	059	522	Camelot*	1,825
+	059	528	Ridgelea*	1,647
+	059	701	Blake*	6,250
+	059	704	Freedom Hill	7,953
+	059	707	Mantua	3,191
+	059	709	Mosby*	8,224
+	059	711	Price	3,545
+	059	714	Walker*	4,787
+	059	718	Pine Ridge*	3,914
+	059	719	Stenwood*	2,214
+	059	720	Thoreau	2,159
+	059	727	Oakton*	3,225
+	059	729	Nottoway	5,934
+	059	730	Penderbrook*	4,139
+	059	732	Oak Marr*	3,389
+	059	914	Vale*	3,640
+	059	916	Waples Mill*	5,177
+	059	1171	Woodson Part 1	3,852
+	059	1172	Woodson Part 2	1,009
+	District number-	34	Total Population:	175,583
+	District	35	Population Deviation: 	-535	Percent Deviation:	-0.30	%
+
+	Fairfax (Part)	116,884
+	059	102	Bristow*	4,931
+	059	104	Chapel*	3,096
+	059	106	Heritage*	8,727
+	059	108	Kings Park*	4,391
+	059	110	North Springfield # 1*	2,063
+	059	111	North Springfield # 2*	3,316
+	059	112	North Springfield # 3*	2,801
+	059	115	Ravensworth*	2,354
+	059	116	Wakefield*	2,927
+	059	503	Belvedere*	2,141
+	059	507	Lincolnia*	6,144
+	059	508	Masonville*	2,962
+	059	510	Parklawn*	3,216
+	059	512	Sleepy Hollow*	1,849
+	059	513	Saint Albans*	3,711
+	059	515	Westlawn*	2,856
+	059	516	Weyanoke*	6,428
+	059	518	Columbia*	6,235
+	059	521	Brook Hill	3,541
+	059	523	Poe	3,668
+	059	524	Whittier*	3,825
+	059	525	Walnut Hill # 1*	1,367
+	059	526	Bren Mar*	4,247
+	059	527	Edsall*	2,603
+	059	705	Graham*	3,622
+	059	706	Greenway*	3,021
+	059	710	Pine Spring*	4,247
+	059	712	Shreve	1,654
+	059	713	Timber Lane	5,845
+	059	717	Woodburn*	3,644
+	059	721	Merrifield*	4,303
+	059	728	Walnut Hill # 2*	1,149
+	Alexandria city (Part)	59,544
+	510	208	Hermitage*	6,010
+	510	209	Southern Towers-Stratford	5,645
+	510	301	James K. Polk School	5,895
+	510	302	Patrick Henry School	5,745
+	510	303	Landmark Center	7,316
+	510	304	Charles E. Beatley Jr. Library	7,542
+	510	305	John Adams School	7,110
+	510	306	William Ramsay School	6,949
+	510	307	South Port*	7,332
+	District number-	35	Total Population:	176,428
+	District	36	Population Deviation: 	358	Percent Deviation:	0.20	%
+
+	Fairfax (Part)	61,372
+	059	411	Virginia Hills	4,458
+	059	601	Belle Haven*	3,237
+	059	602	Belleview	2,588
+	059	605	Fort Hunt*	2,626
+	059	606	Hollin Hall	2,217
+	059	608	Kirkside	2,672
+	059	609	Marlan	3,089
+	059	610	Sherwood*	4,412
+	059	611	Stratford*	4,252
+	059	612	Waynewood*	1,841
+	059	613	Westgate*	3,857
+	059	614	Whitman*	2,687
+	059	615	Woodley*	4,031
+	059	616	Gunston*	6,939
+	059	619	Belvoir*	6,287
+	059	622	Pohick Run	6,179
+	Prince William (Part)	103,538
+	153	202	Enterprise*	5,969
+	153	205	Springwoods*	5,818
+	153	207	Lodge*	5,299
+	153	302	Potomac*	4,890
+	153	502	Occoquan*	6,824
+	153	503	Old Bridge*	4,376
+	153	504	Rockledge*	4,802
+	153	506	Bethel*	5,886
+	153	507	Chinn*	3,617
+	153	601	Dale	3,097
+	153	604	Civic Center	4,249
+	153	605	Minnieville*	4,944
+	153	606	Bel Air	4,645
+	153	701	Belmont*	4,331
+	153	702	Library	5,075
+	153	703	Lynn	5,897
+	153	704	Featherstone	5,907
+	153	705	Potomac View*	4,010
+	153	706	Rippon	9,616
+	153	707	Kilby*	4,286
+	Fairfax - Hayfield 406/Woodlawn 412/Fairfield 413 (499)  (Part)	12,411
+	District number-	36	Total Population:	177,321
+	District	37	Population Deviation: 	87	Percent Deviation:	0.05	%
+
+	Fairfax (Part)	177,050
+	059	105	Fairview*	6,872
+	059	120	Sideburn*	4,166
+	059	126	Bonnie Brae*	3,377
+	059	801	Burke	7,122
+	059	811	Pohick	5,967
+	059	812	Valley*	4,315
+	059	824	Orange*	5,868
+	059	825	Cherry Run*	4,073
+	059	832	Terra Centre*	3,434
+	059	833	White Oaks	4,834
+	059	837	Burke Centre	7,061
+	059	838	Sangster*	5,213
+	059	841	Popes Head*	4,037
+	059	842	Parkway	3,062
+	059	901	Centre Ridge*	10,769
+	059	902	Chantilly*	8,555
+	059	904	Dulles*	2,971
+	059	906	Greenbriar East*	10,143
+	059	907	Greenbriar West*	8,175
+	059	909	Leehigh*	7,105
+	059	910	London Towne*	8,036
+	059	913	Rocky Run*	5,450
+	059	915	Virginia Run*	6,395
+	059	918	Centreville*	10,230
+	059	919	Green Trails*	7,766
+	059	921	Deer Park*	5,042
+	059	922	Willow Springs*	5,194
+	059	999	Cub Run 903/Stone 917	11,818
+	District number-	37	Total Population:	177,050
+	District	38	Population Deviation: 	3,472	Percent Deviation:	1.96	%
+
+	Counties and Cities	125,150
+	021	Bland	6,871
+	027	Buchanan	26,978
+	051	Dickenson	16,395
+	167	Russell	30,308
+	185	Tazewell	44,598
+	Pulaski (Part)	33,869
+	155	102	New River*	3,519
+	155	103	West Cloyd*	1,944
+	155	201	Draper	2,087
+	155	202	South Pulaski	2,087
+	155	203	Newbern*	3,200
+	155	301	Dublin*	5,467
+	155	399	Hiwasee 302/Snowville 304*	2,566
+	155	401	Massie*	5,427
+	155	402	Walker*	1,211
+	155	501	Robinson*	6,361
+	Smyth (Part)	6,125
+	173	101	Saltville*	4,426
+	173	202	Rich Valley	1,699
+	Wise (Part)	13,246
+	195	101	Appalachia	2,831
+	195	102	Dorchester	1,810
+	195	103	Guest River*	1,586
+	195	104	West Pound*	2,864
+	195	203	East Pound	2,610
+	195	403	St. Paul	1,545
+	Wythe (Part)	2,045
+	197	501	Jackson Memorial*	2,045
+	District number-	38	Total Population:	180,435
+	District	39	Population Deviation: 	-9	Percent Deviation:	-0.01	%
+
+	Fairfax (Part)	139,365
+	059	401	Bush Hill*	4,066
+	059	402	Cameron	4,798
+	059	404	Franconia*	4,758
+	059	409	Pioneer*	7,256
+	059	410	Rose Hill	6,194
+	059	415	Crestwood*	4,501
+	059	417	Garfield*	8,239
+	059	418	Lynbrook*	4,392
+	059	419	Beulah*	8,510
+	059	420	Villages*	4,934
+	059	421	Kingstowne*	5,002
+	059	422	Van Dorn*	4,676
+	059	617	Lorton	9,051
+	059	618	Newington*	7,703
+	059	620	Delong*	2,372
+	059	802	Cardinal*	3,462
+	059	803	Clifton*	5,241
+	059	805	Fairfax Station	4,321
+	059	808	Keene Mill*	2,390
+	059	815	Woodyard	4,779
+	059	827	Irving*	3,355
+	059	829	Saratoga*	5,345
+	059	836	Hunt*	5,358
+	059	839	Silverbrook	8,002
+	059	840	West Springfield*	3,793
+	059	912	Newgate*	6,867
+	Prince William (Part)	37,589
+	153	102	Armory*	5,982
+	153	103	Buckhall*	5,905
+	153	108	Woodbine	5,861
+	153	204	Mccoart*	6,588
+	153	208	Westridge*	2,991
+	153	501	Lake Ridge*	5,895
+	153	505	Mohican*	4,367
+	District number-	39	Total Population:	176,954
+	District	40	Population Deviation: 	2,152	Percent Deviation:	1.22	%
+
+	Counties and Cities	119,366
+	105	Lee	23,589
+	169	Scott	23,403
+	520	Bristol city	17,367
+	720	Norton city	3,904
+	191	Washington	51,103
+	Grayson (Part)	5,916
+	077	101	Bridle Creek*	605
+	077	102	Flatridge*	400
+	077	103	Grant	618
+	077	104	Mouth Of Wilson	467
+	077	105	Mount Rogers	697
+	077	106	Rugby	627
+	077	107	Troutdale*	1,372
+	077	201	Comers Rock	376
+	077	202	Elk Creek	754
+	Smyth (Part)	26,956
+	173	201	Seven Mile Ford	2,701
+	173	301	Chilhowie*	4,331
+	173	302	St. Clair*	873
+	173	401	East Park*	2,691
+	173	402	West Park*	1,906
+	173	501	Atkins	2,863
+	173	502	Wassona*	1,833
+	173	601	Royal Oak East	3,655
+	173	602	Royal Oak West*	769
+	173	701	Adwolfe	3,316
+	173	702	Sugar Grove	1,744
+	173	703	Konnarock*	274
+	Wise (Part)	26,877
+	195	201	North Coeburn*	2,375
+	195	202	Wise	5,484
+	195	301	Big Stone Gap	5,614
+	195	302	East Stone Gap	4,495
+	195	401	Clinch Valley*	3,881
+	195	402	South Coeburn	5,028
+	District number-	40	Total Population:	179,115
+
+	Grand Total: 	7,078,515
+
